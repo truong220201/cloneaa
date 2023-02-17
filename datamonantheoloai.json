@@ -1,0 +1,2065 @@
+{
+    "loai":[
+        {
+            "name": "Salad", 
+            "intro":"Cách làm món ăn này cũng không quá cầu kỳ và tiết kiệm thời gian chỉ với những nguyên liệu rau củ đơn giản.",
+            "img": "https://raw.githubusercontent.com/feMoraes0/food-bit-app/master/images/Icon-004.png",
+            "id":0,
+            "tl":[
+              { "id": "0", 
+                "name": "Rocket salad dưa leo lựu", 
+                "intro": "Những ngày hè nóng nực thì không gì tuyệt vời hơn một dĩa salad rocket - món gỏi trộn mát lạnh lại cung cấp một lượng nước dồi dào cho cơ thể. Vào bếp thực hiện 3 cách làm rocket salad cực kì đơn giản ngay thôi!" , 
+                "img": "https://vietucnews.net/wp-content/uploads/2017/10/food_photography_palm_beach_gardens_florida_parched_pig.jpg" ,
+                "date":"12",
+                "chuanbi":"10 phút",
+                "chebien":"5 phút",
+                "dokho":"7",
+                "nguyenlieu":
+                  {
+                    "t1":"Rau xà lách rocket 250 gr,Dưa leo 1 trái,Lựu 1/2 trái",
+                    "t2":" Cà chua bi 100 gr, Hành tây tím 1/2 củ",
+                    "t3":"Chanh 1 trái,Muối/ tiêu 1 ít"
+                  }
+                ,
+                "cacbuoc":
+                  {
+                    "b1":"Sơ chế nguyên liệu, Rau xà lách rocket mua về rửa sạch rồi để ráo,Lựu rửa sạch, bổ ra và tách lấy hạt.",
+                    "b2":"Pha nước sốt:Trộn đều 2 muỗng canh nước cốt chanh, 1 muỗng cà phê muối và 1/4 muỗng cà phê tiêu.",
+                    "b3":"Trộn salad:Cho tất cả rau xà lách rocket, lựu, cà chua bi, dưa leo và hành tây tím vào 1 cái tô. Rưới nước sốt lên trên rồi trộn đều và nhẹ tay để các nguyên liệu thấm gia vị."
+                  }
+                ,
+                "tag": "#salad,#dualeo"
+              },
+              { "id": "1", 
+                "name": "Salad cá ngừ", 
+                "intro": "Món salad cá ngừ ở các nhà hàng đồ ăn Tây hấp dẫn nhiều người. Bạn cũng có thể làm được món này khi vào bếp tại nhà với 3 công thức làm salad cá ngừ cực đơn giản từ Điện máy XANH.                    " , 
+                "img": "https://cdn.tgdd.vn/Files/2019/11/15/1219188/3-cong-thuc-lam-salad-ca-ngu-cuc-don-gian-giau-dinh-duong-lam-nhanh-760x367.jpg" ,
+                "chuanbi":"10 phút",
+                "chebien":"30 phút",
+                "nguyenlieu":
+                  {
+                    "t1":"Rau xà lách rocket 250 gr,Dưa leo 1 trái,Lựu 1/2 trái",
+                    "t2":" Cà chua bi 100 gr, Hành tây tím 1/2 củ",
+                    "t3":"Chanh 1 trái,Muối/ tiêu 1 ít"
+                  }
+                ,
+                "cacbuoc":
+                  {
+                    "b1":"Sơ chế nguyên liệu, Rau xà lách rocket mua về rửa sạch rồi để ráo,Lựu rửa sạch, bổ ra và tách lấy hạt.",
+                    "b2":"Pha nước sốt:Trộn đều 2 muỗng canh nước cốt chanh, 1 muỗng cà phê muối và 1/4 muỗng cà phê tiêu.",
+                    "b3":"Trộn salad:Cho tất cả rau xà lách rocket, lựu, cà chua bi, dưa leo và hành tây tím vào 1 cái tô. Rưới nước sốt lên trên rồi trộn đều và nhẹ tay để các nguyên liệu thấm gia vị."
+                  }
+                ,
+                "dokho":"8",
+                "date":"12",
+                "tag": "#salad,#cangu"
+              },
+                  { "id": "2", 
+                    "name": "Salad cà chua", 
+                    "intro": "Cách làm salad cà chua rất đơn giản chỉ với một vài bước chuẩn bị nguyên liệu và sơ chế như sau:" , 
+                    "img": "https://img.tastykitchen.vn/resize/764x-/2021/05/31/thuong-thuc-mon-salad-ca-chua-voi-cong-thuc-che-bi-171d.jpg" ,
+                    "date":"12",
+                    "chuanbi":"5 phút",
+                    "nguyenlieu":
+                  {
+                    "t1":"Rau xà lách rocket 250 gr,Dưa leo 1 trái,Lựu 1/2 trái",
+                    "t2":" Cà chua bi 100 gr, Hành tây tím 1/2 củ",
+                    "t3":"Chanh 1 trái,Muối/ tiêu 1 ít"
+                  }
+                ,
+                "cacbuoc":
+                  {
+                    "b1":"Sơ chế nguyên liệu, Rau xà lách rocket mua về rửa sạch rồi để ráo,Lựu rửa sạch, bổ ra và tách lấy hạt.",
+                    "b2":"Pha nước sốt:Trộn đều 2 muỗng canh nước cốt chanh, 1 muỗng cà phê muối và 1/4 muỗng cà phê tiêu.",
+                    "b3":"Trộn salad:Cho tất cả rau xà lách rocket, lựu, cà chua bi, dưa leo và hành tây tím vào 1 cái tô. Rưới nước sốt lên trên rồi trộn đều và nhẹ tay để các nguyên liệu thấm gia vị."
+                  }
+                ,
+                    "chebien":"5 phút",
+                    "dokho":"4",
+                    "tag": "#salad,#cachua"
+                  },
+                  { "id": "3", 
+                    "name": "Salad trứng gà",
+                    "intro": "Chế biến món salad trứng gà cho gia đình thưởng thức chỉ với những nguyên liệu đơn giản và cách làm nhanh gọn ngay sau đây cùng TASTY Kitchen nhé." , 
+                    "img": "https://img.tastykitchen.vn/resize/764x-/2021/05/31/mon-salad-trung-ga-don-gian-1104.jpg" ,
+                    "chuanbi":"5-10 phút",
+                    "chebien":"5-10 phút",
+                    "nguyenlieu":
+                  {
+                    "t1":"Rau xà lách rocket 250 gr,Dưa leo 1 trái,Lựu 1/2 trái",
+                    "t2":" Cà chua bi 100 gr, Hành tây tím 1/2 củ",
+                    "t3":"Chanh 1 trái,Muối/ tiêu 1 ít"
+                  }
+                ,
+                "cacbuoc":
+                  {
+                    "b1":"Sơ chế nguyên liệu, Rau xà lách rocket mua về rửa sạch rồi để ráo,Lựu rửa sạch, bổ ra và tách lấy hạt.",
+                    "b2":"Pha nước sốt:Trộn đều 2 muỗng canh nước cốt chanh, 1 muỗng cà phê muối và 1/4 muỗng cà phê tiêu.",
+                    "b3":"Trộn salad:Cho tất cả rau xà lách rocket, lựu, cà chua bi, dưa leo và hành tây tím vào 1 cái tô. Rưới nước sốt lên trên rồi trộn đều và nhẹ tay để các nguyên liệu thấm gia vị."
+                  }
+                ,
+                    "dokho":"3",
+                    "date":"12",
+                    "tag": "#salad,#trungga"
+                  },
+                  { "id": "4", 
+                    "name": "Salad trái cây", 
+                    "intro": "Với những bạn đam mê trái cây và có nhu cầu làm đẹp thì salad trái cây chính là sự lựa chọn hoàn hảo.", 
+                    "img": "https://img.tastykitchen.vn/resize/764x-/2021/05/31/lam-dep-da-lay-lai-voc-dang-voi-mon-salad-trai-cay-5ef8.jpg" ,
+                    "chuanbi":"5-10 phút",
+                    "chebien":"5 phút",
+                    "nguyenlieu":
+                  {
+                    "t1":"Rau xà lách rocket 250 gr,Dưa leo 1 trái,Lựu 1/2 trái",
+                    "t2":" Cà chua bi 100 gr, Hành tây tím 1/2 củ",
+                    "t3":"Chanh 1 trái,Muối/ tiêu 1 ít"
+                  }
+                ,
+                "cacbuoc":
+                  {
+                    "b1":"Sơ chế nguyên liệu, Rau xà lách rocket mua về rửa sạch rồi để ráo,Lựu rửa sạch, bổ ra và tách lấy hạt.",
+                    "b2":"Pha nước sốt:Trộn đều 2 muỗng canh nước cốt chanh, 1 muỗng cà phê muối và 1/4 muỗng cà phê tiêu.",
+                    "b3":"Trộn salad:Cho tất cả rau xà lách rocket, lựu, cà chua bi, dưa leo và hành tây tím vào 1 cái tô. Rưới nước sốt lên trên rồi trộn đều và nhẹ tay để các nguyên liệu thấm gia vị."
+                  }
+                ,
+                    "dokho":"3",
+                    "date":"12",
+                    "tag": "#salad,#traicay"
+                  },
+                  { "id": "5", 
+                    "name": "Salad dưa chuột", 
+                    "intro": "Đây là món ăn giúp bạn đỡ cảm giác ngán thức ăn và phù hợp để thưởng thức vào những ngày thời tiết oi bức." , 
+                    "img": "https://pastaxi-manager.onepas.vn/content/uploads/articles/cach-lam-salad-ca-chua-dua-chuot/cach-lam-ca-chua-dua-chuot-5.jpg" ,
+                    "chuanbi":"5 phút",
+                    "chebien":"5 phút",
+                    "nguyenlieu":
+                  {
+                    "t1":"Rau xà lách rocket 250 gr,Dưa leo 1 trái,Lựu 1/2 trái",
+                    "t2":" Cà chua bi 100 gr, Hành tây tím 1/2 củ",
+                    "t3":"Chanh 1 trái,Muối/ tiêu 1 ít"
+                  }
+                ,
+                "cacbuoc":
+                  {
+                    "b1":"Sơ chế nguyên liệu, Rau xà lách rocket mua về rửa sạch rồi để ráo,Lựu rửa sạch, bổ ra và tách lấy hạt.",
+                    "b2":"Pha nước sốt:Trộn đều 2 muỗng canh nước cốt chanh, 1 muỗng cà phê muối và 1/4 muỗng cà phê tiêu.",
+                    "b3":"Trộn salad:Cho tất cả rau xà lách rocket, lựu, cà chua bi, dưa leo và hành tây tím vào 1 cái tô. Rưới nước sốt lên trên rồi trộn đều và nhẹ tay để các nguyên liệu thấm gia vị."
+                  }
+                ,
+                    "dokho":"5",
+                    "date":"12",
+                    "tag": "#salad,#duachuot"
+                  },
+                  { "id": "6", 
+                    "name": "Salad thịt gà", 
+                    "intro": "Bạn có thể chế biến món salad thịt gà một cách đơn giản chỉ với các bước ngay sau đây. Cùng TASTY Kitchen tham khảo nhé." , 
+                    "img": "https://img.tastykitchen.vn/resize/764x-/2021/05/31/mon-salad-thit-ga-dinh-duong-8ab8.jpg" ,
+                    "chuanbi":"10 phút",
+                    "chebien":"10 phút",
+                    "nguyenlieu":
+                  {
+                    "t1":"Rau xà lách rocket 250 gr,Dưa leo 1 trái,Lựu 1/2 trái",
+                    "t2":" Cà chua bi 100 gr, Hành tây tím 1/2 củ",
+                    "t3":"Chanh 1 trái,Muối/ tiêu 1 ít"
+                  }
+                ,
+                "cacbuoc":
+                  {
+                    "b1":"Sơ chế nguyên liệu, Rau xà lách rocket mua về rửa sạch rồi để ráo,Lựu rửa sạch, bổ ra và tách lấy hạt.",
+                    "b2":"Pha nước sốt:Trộn đều 2 muỗng canh nước cốt chanh, 1 muỗng cà phê muối và 1/4 muỗng cà phê tiêu.",
+                    "b3":"Trộn salad:Cho tất cả rau xà lách rocket, lựu, cà chua bi, dưa leo và hành tây tím vào 1 cái tô. Rưới nước sốt lên trên rồi trộn đều và nhẹ tay để các nguyên liệu thấm gia vị."
+                  }
+                ,
+                    "dokho":"7",
+                    "date":"12",
+                    "tag": "#salad,#ga"
+            
+                  }
+           ]
+        },
+        {
+            "name": "Trà sữa", 
+            "intro":"Đây là đồ uống sở hữu sự kết hợp giữa các nguyên liệu quen thuộc là trà, sữa và Topping trà sữa.",
+            "img": "https://img.hoidap247.com/picture/answer/20200516/large_1589563476410.jpg",
+            "id":1,
+            "tl":[
+                  { "id": "0", 
+                    "name": "Trà ô long sữa trân châu", 
+                    "intro": "Ô long là loại trà bán lên men với hương vị rất đặc biệt mà chỉ khi thử bạn mới cảm nhận được. Ô long cũng thường được sử dụng trong các công thức pha chế trà sữa, trà trái cây." , 
+                    "img": "https://file.hstatic.net/1000135323/file/6_c327a79b74d04ce798109b39e8d411e3_1024x1024.jpg" ,
+                    "chuanbi":"5 phút",
+                    "chebien":"15 phút",
+                    "dokho":"4",
+                    "nguyenlieu":
+                  {
+                    "t1":"Rau xà lách rocket 250 gr,Dưa leo 1 trái,Lựu 1/2 trái",
+                    "t2":" Cà chua bi 100 gr, Hành tây tím 1/2 củ",
+                    "t3":"Chanh 1 trái,Muối/ tiêu 1 ít"
+                  }
+                ,
+                "cacbuoc":
+                  {
+                    "b1":"Sơ chế nguyên liệu, Rau xà lách rocket mua về rửa sạch rồi để ráo,Lựu rửa sạch, bổ ra và tách lấy hạt.",
+                    "b2":"Pha nước sốt:Trộn đều 2 muỗng canh nước cốt chanh, 1 muỗng cà phê muối và 1/4 muỗng cà phê tiêu.",
+                    "b3":"Trộn salad:Cho tất cả rau xà lách rocket, lựu, cà chua bi, dưa leo và hành tây tím vào 1 cái tô. Rưới nước sốt lên trên rồi trộn đều và nhẹ tay để các nguyên liệu thấm gia vị."
+                  } ,
+                    "date":"12",
+                    "tag": "#trasua"
+            
+                  },
+                { "id": "1", 
+                    "name": "Trà sữa trân châu", 
+                    "intro": "Đây là một đồ uống truyền thống nhưng không bao giờ cũ, là món mà bất cứ quán trà sữa nào cũng có. Vì vậy chúng ta không thể bỏ qua cách làm trà sữa trân châu phải không nào?" , 
+                    "img": "https://file.hstatic.net/1000135323/file/1_1b353798336e46edb16bf722b2e2990e_1024x1024.jpg" ,
+                    "chuanbi":"10 phút",
+                    "chebien":"30 phút",
+                    
+                    "dokho":"5","nguyenlieu":
+                    {
+                      "t1":"Rau xà lách rocket 250 gr,Dưa leo 1 trái,Lựu 1/2 trái",
+                      "t2":" Cà chua bi 100 gr, Hành tây tím 1/2 củ",
+                      "t3":"Chanh 1 trái,Muối/ tiêu 1 ít"
+                    }
+                  ,
+                  "cacbuoc":
+                    {
+                      "b1":"Sơ chế nguyên liệu, Rau xà lách rocket mua về rửa sạch rồi để ráo,Lựu rửa sạch, bổ ra và tách lấy hạt.",
+                      "b2":"Pha nước sốt:Trộn đều 2 muỗng canh nước cốt chanh, 1 muỗng cà phê muối và 1/4 muỗng cà phê tiêu.",
+                      "b3":"Trộn salad:Cho tất cả rau xà lách rocket, lựu, cà chua bi, dưa leo và hành tây tím vào 1 cái tô. Rưới nước sốt lên trên rồi trộn đều và nhẹ tay để các nguyên liệu thấm gia vị."
+                    }
+                  ,
+                    "date":"12",
+                    "tag": "#trasua,#trasuatranchau"
+                  },
+                  { "id": "2",
+                    "name": "Trà sữa Thái xanh, Thái đỏ", 
+                    "intro": "Trà sữa Thái với vị ngọt đậm đà, hương trà nồng nàn cũng là một loại trà sữa rất được yêu thích. Loại trà khô để pha chế là trà đặc trưng của Thái Lan, có hương vị rất đặc biệt. Ngoài ra chúng ta nên dùng sữa đặc để tạo vị ngọt rõ nét cho đồ uống.", 
+                    "img": "https://file.hstatic.net/1000135323/file/2_3addd09a15414742b758efa35c46c528_1024x1024.jpg" ,
+                    "chuanbi":"10 phút",
+                    "chebien":"15 phút",
+                    "dokho":"6",
+                    "nguyenlieu":
+                  {
+                    "t1":"Rau xà lách rocket 250 gr,Dưa leo 1 trái,Lựu 1/2 trái",
+                    "t2":" Cà chua bi 100 gr, Hành tây tím 1/2 củ",
+                    "t3":"Chanh 1 trái,Muối/ tiêu 1 ít"
+                  }
+                ,
+                "cacbuoc":
+                  {
+                    "b1":"Sơ chế nguyên liệu, Rau xà lách rocket mua về rửa sạch rồi để ráo,Lựu rửa sạch, bổ ra và tách lấy hạt.",
+                    "b2":"Pha nước sốt:Trộn đều 2 muỗng canh nước cốt chanh, 1 muỗng cà phê muối và 1/4 muỗng cà phê tiêu.",
+                    "b3":"Trộn salad:Cho tất cả rau xà lách rocket, lựu, cà chua bi, dưa leo và hành tây tím vào 1 cái tô. Rưới nước sốt lên trên rồi trộn đều và nhẹ tay để các nguyên liệu thấm gia vị."
+                  }
+                ,
+                    "date":"12",
+                    "tag": "#trasua,#thai"
+                  },
+                  { "id": "3", 
+                    "name": "Trà sữa matcha",
+                    "intro": "Trà sữa matcha có vị thanh nhẹ, chát dịu. Vị trà tự nhiên và rõ nét hơn so với trà sữa pha từ trà xanh thông thường. Matcha ngày càng được sử dụng rộng rãi trong pha chế và sáng tạo đồ uống." , 
+                    "img": "https://file.hstatic.net/1000135323/file/3_003d1af42d474d3e9b9412555e8f4f70_1024x1024.jpg" ,
+                    "chuanbi":"10 phút",
+                    "chebien":"15 phút",
+                    "dokho":"6",
+                    "nguyenlieu":
+                  {
+                    "t1":"Rau xà lách rocket 250 gr,Dưa leo 1 trái,Lựu 1/2 trái",
+                    "t2":" Cà chua bi 100 gr, Hành tây tím 1/2 củ",
+                    "t3":"Chanh 1 trái,Muối/ tiêu 1 ít"
+                  }
+                ,
+                "cacbuoc":
+                  {
+                    "b1":"Sơ chế nguyên liệu, Rau xà lách rocket mua về rửa sạch rồi để ráo,Lựu rửa sạch, bổ ra và tách lấy hạt.",
+                    "b2":"Pha nước sốt:Trộn đều 2 muỗng canh nước cốt chanh, 1 muỗng cà phê muối và 1/4 muỗng cà phê tiêu.",
+                    "b3":"Trộn salad:Cho tất cả rau xà lách rocket, lựu, cà chua bi, dưa leo và hành tây tím vào 1 cái tô. Rưới nước sốt lên trên rồi trộn đều và nhẹ tay để các nguyên liệu thấm gia vị."
+                  }
+                ,
+                    "date":"12",
+                    "tag": "#trasua,#matcha"
+                  },
+                  { "id": "4", 
+                    "name": "Trà sữa đào", 
+                    "intro": "Trà sữa đào bên cạnh vị dịu ngọt quen thuộc còn có thêm hương vị đào chua nhẹ và thanh mát, là điểm sáng của món này.", 
+                    "img": "https://file.hstatic.net/1000135323/file/4_1822622bb6fb4efaad2c85a1758fefa0_1024x1024.jpg" ,
+                    "chuanbi":"5 phút",
+                    "chebien":"10 phút",
+                    "dokho":"4",
+                    "nguyenlieu":
+                  {
+                    "t1":"Rau xà lách rocket 250 gr,Dưa leo 1 trái,Lựu 1/2 trái",
+                    "t2":" Cà chua bi 100 gr, Hành tây tím 1/2 củ",
+                    "t3":"Chanh 1 trái,Muối/ tiêu 1 ít"
+                  }
+                ,
+                "cacbuoc":
+                  {
+                    "b1":"Sơ chế nguyên liệu, Rau xà lách rocket mua về rửa sạch rồi để ráo,Lựu rửa sạch, bổ ra và tách lấy hạt.",
+                    "b2":"Pha nước sốt:Trộn đều 2 muỗng canh nước cốt chanh, 1 muỗng cà phê muối và 1/4 muỗng cà phê tiêu.",
+                    "b3":"Trộn salad:Cho tất cả rau xà lách rocket, lựu, cà chua bi, dưa leo và hành tây tím vào 1 cái tô. Rưới nước sốt lên trên rồi trộn đều và nhẹ tay để các nguyên liệu thấm gia vị."
+                  }
+                ,
+                    "date":"12",
+                    "tag": "#trasua,#dao"
+                  },
+                  { "id": "5", 
+                    "name": "Trà sữa socola", 
+                    "intro": "Trà sữa socola sẽ có thêm vị đắng êm đềm và vị thơm mạnh mẽ từ bột cacao, cùng màu nâu đậm đẹp mắt cực kì hấp dẫn." , 
+                    "img": "https://file.hstatic.net/1000135323/file/5_4af34c1e35cd4a24b93370f492e16a3c_1024x1024.jpg" ,
+                    "chuanbi":"5 phút",
+                    "chebien":"15 phút",
+                    "dokho":"4",
+                    "nguyenlieu":
+                  {
+                    "t1":"Rau xà lách rocket 250 gr,Dưa leo 1 trái,Lựu 1/2 trái",
+                    "t2":" Cà chua bi 100 gr, Hành tây tím 1/2 củ",
+                    "t3":"Chanh 1 trái,Muối/ tiêu 1 ít"
+                  }
+                ,
+                "cacbuoc":
+                  {
+                    "b1":"Sơ chế nguyên liệu, Rau xà lách rocket mua về rửa sạch rồi để ráo,Lựu rửa sạch, bổ ra và tách lấy hạt.",
+                    "b2":"Pha nước sốt:Trộn đều 2 muỗng canh nước cốt chanh, 1 muỗng cà phê muối và 1/4 muỗng cà phê tiêu.",
+                    "b3":"Trộn salad:Cho tất cả rau xà lách rocket, lựu, cà chua bi, dưa leo và hành tây tím vào 1 cái tô. Rưới nước sốt lên trên rồi trộn đều và nhẹ tay để các nguyên liệu thấm gia vị."
+                  }
+                ,
+                    "date":"12",
+                    "tag": "#trasua,#socola"
+                  }
+                  
+            ]
+        },
+        {
+            "name": "Gà rán", 
+            "intro":"Các món chiên từ thịt gà thường thu hút người dùng bởi cảm giác giòn rụm bên ngoài cùng hương vị thơm ngon, mềm ngọt của thịt gà bên trong.",
+            "img": "https://raw.githubusercontent.com/feMoraes0/food-bit-app/master/images/Icon-001.png",
+            "id":2,
+            "tl":[
+                {   "id": "1",
+                    "name": "Gà Rán KFC Tại Gia", 
+                    "intro": "Gà Rán KFC Tại Gia" , 
+                    "img": "https://img-global.cpcdn.com/recipes/fd6a79215260dc33/680x482cq70/ga-ran-kfc-t%E1%BA%A1i-gia-recipe-main-photo.webp" ,
+                    "chuanbi":"5 phút",
+                    "chebien":"20 phút",
+                    "dokho":"4",
+                    "nguyenlieu":
+                  {
+                    "t1":"Rau xà lách rocket 250 gr,Dưa leo 1 trái,Lựu 1/2 trái",
+                    "t2":" Cà chua bi 100 gr, Hành tây tím 1/2 củ",
+                    "t3":"Chanh 1 trái,Muối/ tiêu 1 ít"
+                  }
+                ,
+                "cacbuoc":
+                  {
+                    "b1":"Sơ chế nguyên liệu, Rau xà lách rocket mua về rửa sạch rồi để ráo,Lựu rửa sạch, bổ ra và tách lấy hạt.",
+                    "b2":"Pha nước sốt:Trộn đều 2 muỗng canh nước cốt chanh, 1 muỗng cà phê muối và 1/4 muỗng cà phê tiêu.",
+                    "b3":"Trộn salad:Cho tất cả rau xà lách rocket, lựu, cà chua bi, dưa leo và hành tây tím vào 1 cái tô. Rưới nước sốt lên trên rồi trộn đều và nhẹ tay để các nguyên liệu thấm gia vị."
+                  }
+                ,
+                    "date":"12",
+                    "tag": "#garan,#kfc"
+                  },
+                  { "id": "2", 
+                    "name": " Gà rán giòn cay", 
+                    "intro": "Bột ớt paprika bạn có thể chọn mua tại các chợ, siêu thị, cửa hàng thực phẩm uy tín.", 
+                    "img": "https://cdn.tgdd.vn/2020/12/CookRecipe/Avatar/ga-ran-gion-cay-don-gian-hap-dan-cho-le-giang-sinh-thumbnail-1.jpg" ,
+                    "chuanbi":"5 phút",
+                    "chebien":"30 phút",
+                    "dokho":"6",
+                    "nguyenlieu":
+                  {
+                    "t1":"Rau xà lách rocket 250 gr,Dưa leo 1 trái,Lựu 1/2 trái",
+                    "t2":" Cà chua bi 100 gr, Hành tây tím 1/2 củ",
+                    "t3":"Chanh 1 trái,Muối/ tiêu 1 ít"
+                  }
+                ,
+                "cacbuoc":
+                  {
+                    "b1":"Sơ chế nguyên liệu, Rau xà lách rocket mua về rửa sạch rồi để ráo,Lựu rửa sạch, bổ ra và tách lấy hạt.",
+                    "b2":"Pha nước sốt:Trộn đều 2 muỗng canh nước cốt chanh, 1 muỗng cà phê muối và 1/4 muỗng cà phê tiêu.",
+                    "b3":"Trộn salad:Cho tất cả rau xà lách rocket, lựu, cà chua bi, dưa leo và hành tây tím vào 1 cái tô. Rưới nước sốt lên trên rồi trộn đều và nhẹ tay để các nguyên liệu thấm gia vị."
+                  }
+                ,
+                    "date":"12",
+                    "tag": "#garan,#cay"
+                  },
+                  { "id": "3", 
+                    "name": " Cách làm gà rán giòn phiên bản không cay",
+                    "intro": "Không cay nha!" , 
+                    "img": "https://cdn.tgdd.vn/2021/09/CookRecipe/Avatar/cach-lam-ga-ran-gion-phien-ban-khong-cay-thumbnail.jpg" ,
+                    "chuanbi":"15 phút",
+                    "chebien":"20 phút",
+                    "dokho":"6",
+                    "nguyenlieu":
+                  {
+                    "t1":"Rau xà lách rocket 250 gr,Dưa leo 1 trái,Lựu 1/2 trái",
+                    "t2":" Cà chua bi 100 gr, Hành tây tím 1/2 củ",
+                    "t3":"Chanh 1 trái,Muối/ tiêu 1 ít"
+                  }
+                ,
+                "cacbuoc":
+                  {
+                    "b1":"Sơ chế nguyên liệu, Rau xà lách rocket mua về rửa sạch rồi để ráo,Lựu rửa sạch, bổ ra và tách lấy hạt.",
+                    "b2":"Pha nước sốt:Trộn đều 2 muỗng canh nước cốt chanh, 1 muỗng cà phê muối và 1/4 muỗng cà phê tiêu.",
+                    "b3":"Trộn salad:Cho tất cả rau xà lách rocket, lựu, cà chua bi, dưa leo và hành tây tím vào 1 cái tô. Rưới nước sốt lên trên rồi trộn đều và nhẹ tay để các nguyên liệu thấm gia vị."
+                  }
+                ,
+                    "date":"12",
+                    "tag": "#garan"
+                  },
+                  { "id": "4", 
+                    "name": "Gà rán sốt cay", 
+                    "intro": "Món ăn nhanh gọn và rất ngon, vị giống món gà sốt cay ở các tiệm gà rán", 
+                    "img": "https://img-global.cpcdn.com/recipes/958d1ddf29d2035e/640x640sq70/photo.webp" ,
+                    "chuanbi":"10 phút",
+                    "chebien":"15 phút",
+                    "dokho":"6",
+                    "nguyenlieu":
+                  {
+                    "t1":"Rau xà lách rocket 250 gr,Dưa leo 1 trái,Lựu 1/2 trái",
+                    "t2":" Cà chua bi 100 gr, Hành tây tím 1/2 củ",
+                    "t3":"Chanh 1 trái,Muối/ tiêu 1 ít"
+                  }
+                ,
+                "cacbuoc":
+                  {
+                    "b1":"Sơ chế nguyên liệu, Rau xà lách rocket mua về rửa sạch rồi để ráo,Lựu rửa sạch, bổ ra và tách lấy hạt.",
+                    "b2":"Pha nước sốt:Trộn đều 2 muỗng canh nước cốt chanh, 1 muỗng cà phê muối và 1/4 muỗng cà phê tiêu.",
+                    "b3":"Trộn salad:Cho tất cả rau xà lách rocket, lựu, cà chua bi, dưa leo và hành tây tím vào 1 cái tô. Rưới nước sốt lên trên rồi trộn đều và nhẹ tay để các nguyên liệu thấm gia vị."
+                  }
+                ,
+                    "date":"12",
+                    "tag": "#garan,#sot"
+                  },
+                  { "id": "5", 
+                    "name": "Gà rán/chiên Ajiqick", 
+                    "intro": "ngon" , 
+                    "img": "https://img-global.cpcdn.com/recipes/672b624036d38412/680x482cq70/ga-ranchien-ajiquck-recipe-main-photo.webp" ,
+                    "chuanbi":"10 phút",
+                    "chebien":"15 phút",
+                    "dokho":"6",
+                    "nguyenlieu":
+                  {
+                    "t1":"Rau xà lách rocket 250 gr,Dưa leo 1 trái,Lựu 1/2 trái",
+                    "t2":" Cà chua bi 100 gr, Hành tây tím 1/2 củ",
+                    "t3":"Chanh 1 trái,Muối/ tiêu 1 ít"
+                  }
+                ,
+                "cacbuoc":
+                  {
+                    "b1":"Sơ chế nguyên liệu, Rau xà lách rocket mua về rửa sạch rồi để ráo,Lựu rửa sạch, bổ ra và tách lấy hạt.",
+                    "b2":"Pha nước sốt:Trộn đều 2 muỗng canh nước cốt chanh, 1 muỗng cà phê muối và 1/4 muỗng cà phê tiêu.",
+                    "b3":"Trộn salad:Cho tất cả rau xà lách rocket, lựu, cà chua bi, dưa leo và hành tây tím vào 1 cái tô. Rưới nước sốt lên trên rồi trộn đều và nhẹ tay để các nguyên liệu thấm gia vị."
+                  }
+                ,
+                    "date":"12",
+                    "tag": "#garan"
+                  },
+                  { "id": "6", 
+                    "name": "Cánh gà rán keto", 
+                    "intro": "Cánh gà rán keto phiên bản hơi lỗi" , 
+                    "img": "https://img-global.cpcdn.com/recipes/aaaea0178842791c/680x482cq70/canh-ga-ran-keto-recipe-main-photo.webp" ,
+                    "chuanbi":"10 phút",
+                    "chebien":"15 phút",
+                    "dokho":"6",
+                    "nguyenlieu":
+                  {
+                    "t1":"Rau xà lách rocket 250 gr,Dưa leo 1 trái,Lựu 1/2 trái",
+                    "t2":" Cà chua bi 100 gr, Hành tây tím 1/2 củ",
+                    "t3":"Chanh 1 trái,Muối/ tiêu 1 ít"
+                  }
+                ,
+                "cacbuoc":
+                  {
+                    "b1":"Sơ chế nguyên liệu, Rau xà lách rocket mua về rửa sạch rồi để ráo,Lựu rửa sạch, bổ ra và tách lấy hạt.",
+                    "b2":"Pha nước sốt:Trộn đều 2 muỗng canh nước cốt chanh, 1 muỗng cà phê muối và 1/4 muỗng cà phê tiêu.",
+                    "b3":"Trộn salad:Cho tất cả rau xà lách rocket, lựu, cà chua bi, dưa leo và hành tây tím vào 1 cái tô. Rưới nước sốt lên trên rồi trộn đều và nhẹ tay để các nguyên liệu thấm gia vị."
+                  }
+                ,
+                    "date":"12",
+                    "tag": "#garan,#keto"
+            
+                  }
+            ]
+        },
+        {
+            "name": "Món Hàn", 
+            "intro":"Các món ăn của Hàn Quốc nổi tiếng vì giàu chất dinh dưỡng và lượng calo thấp.",
+            "img": "https://png.pngtree.com/png-vector/20191024/ourlarge/pngtree-bibimbap-korean-dish-icon-cartoon-style-png-image_1849946.jpg",
+            "id":3,
+            "tl":[
+                { "id": "1", 
+                    "name": "Trứng Lòng Đào Ngâm Nước Tương Kiểu Hàn Quốc", 
+                    "intro": "Mình bonus mấy cái trứng cút dư cho gọn bếp chớ các bạn làm trứng gà thôi là chuẩn ngon rồi nghen." , 
+                    "img": "https://img-global.cpcdn.com/recipes/cfebcdba3d01f95d/680x482cq70/tr%E1%BB%A9ng-long-dao-ngam-n%C6%B0%E1%BB%9Bc-t%C6%B0%C6%A1ng-ki%E1%BB%83u-han-qu%E1%BB%91c-recipe-main-photo.webp" ,
+                    "chuanbi":"10 phút",
+                    "chebien":"15 phút",
+                    "dokho":"6",
+                    "nguyenlieu":
+                  {
+                    "t1":"Rau xà lách rocket 250 gr,Dưa leo 1 trái,Lựu 1/2 trái",
+                    "t2":" Cà chua bi 100 gr, Hành tây tím 1/2 củ",
+                    "t3":"Chanh 1 trái,Muối/ tiêu 1 ít"
+                  }
+                ,
+                "cacbuoc":
+                  {
+                    "b1":"Sơ chế nguyên liệu, Rau xà lách rocket mua về rửa sạch rồi để ráo,Lựu rửa sạch, bổ ra và tách lấy hạt.",
+                    "b2":"Pha nước sốt:Trộn đều 2 muỗng canh nước cốt chanh, 1 muỗng cà phê muối và 1/4 muỗng cà phê tiêu.",
+                    "b3":"Trộn salad:Cho tất cả rau xà lách rocket, lựu, cà chua bi, dưa leo và hành tây tím vào 1 cái tô. Rưới nước sốt lên trên rồi trộn đều và nhẹ tay để các nguyên liệu thấm gia vị."
+                  }
+                ,
+                    "date":"12",
+                    "tag": "#monhan,#trung"
+                  },
+                  { "id": "2", 
+                    "name": " BULGOGI (THỊT NƯỚNG BBQ)", 
+                    "intro": "Bulgogi được ướp với nước tương (xì dầu) và đường, chính yếu tố đó làm cho món ăn mềm và thơm – một hương vị mà ai cũng có thể cảm nhận được.", 
+                    "img": "http://kingbbq.com.vn/wp-content/uploads/2014/09/bulgogi-1024x682.jpg" ,
+                    "chuanbi":"10 phút",
+                    "chebien":"15 phút",
+                    "dokho":"6",
+                    "nguyenlieu":
+                  {
+                    "t1":"Rau xà lách rocket 250 gr,Dưa leo 1 trái,Lựu 1/2 trái",
+                    "t2":" Cà chua bi 100 gr, Hành tây tím 1/2 củ",
+                    "t3":"Chanh 1 trái,Muối/ tiêu 1 ít"
+                  }
+                ,
+                "cacbuoc":
+                  {
+                    "b1":"Sơ chế nguyên liệu, Rau xà lách rocket mua về rửa sạch rồi để ráo,Lựu rửa sạch, bổ ra và tách lấy hạt.",
+                    "b2":"Pha nước sốt:Trộn đều 2 muỗng canh nước cốt chanh, 1 muỗng cà phê muối và 1/4 muỗng cà phê tiêu.",
+                    "b3":"Trộn salad:Cho tất cả rau xà lách rocket, lựu, cà chua bi, dưa leo và hành tây tím vào 1 cái tô. Rưới nước sốt lên trên rồi trộn đều và nhẹ tay để các nguyên liệu thấm gia vị."
+                  }
+                ,
+                    "date":"12",
+                    "tag": "#monhan"
+                  },
+                  { "id": "3", 
+                    "name": "BIBIMBAP (CƠM TRỘN HÀN QUỐC)",
+                    "intro": "Nếu người Anh có sandwich, người Mỹ có hamburger và xúc xích thì người Hàn Quốc có Bibimbap và họ luôn tự hào: Đây là một món ăn hấp dẫn và tiêu biểu nhất của ẩm thực xứ Hàn." , 
+                    "img": "http://kingbbq.com.vn/wp-content/uploads/2014/09/bibimbap-9-1024x682.jpg" ,
+                    "chuanbi":"10 phút",
+                    "chebien":"15 phút",
+                    "dokho":"6",
+                    "nguyenlieu":
+                  {
+                    "t1":"Rau xà lách rocket 250 gr,Dưa leo 1 trái,Lựu 1/2 trái",
+                    "t2":" Cà chua bi 100 gr, Hành tây tím 1/2 củ",
+                    "t3":"Chanh 1 trái,Muối/ tiêu 1 ít"
+                  }
+                ,
+                "cacbuoc":
+                  {
+                    "b1":"Sơ chế nguyên liệu, Rau xà lách rocket mua về rửa sạch rồi để ráo,Lựu rửa sạch, bổ ra và tách lấy hạt.",
+                    "b2":"Pha nước sốt:Trộn đều 2 muỗng canh nước cốt chanh, 1 muỗng cà phê muối và 1/4 muỗng cà phê tiêu.",
+                    "b3":"Trộn salad:Cho tất cả rau xà lách rocket, lựu, cà chua bi, dưa leo và hành tây tím vào 1 cái tô. Rưới nước sốt lên trên rồi trộn đều và nhẹ tay để các nguyên liệu thấm gia vị."
+                  }
+                ,
+                    "date":"12",
+                    "tag": "#monhan"
+                  },
+                  { "id": "4", 
+                    "name": "KIMCHI HÀN QUỐC", 
+                    "intro": "Kim chi được xem như món ăn điển hình của ẩm thực Hàn Quốc. Ở Hàn, kim chi được dùng trong hầu hết các bữa ăn hằng ngày và là thành phần của nhiều món như: kimchi jjigae (canh kim chi), kimchi bokkeumbap (cơm chiên kim chi).", 
+                    "img": "data:image/jpeg;base64,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" ,
+                    "chuanbi":"10 phút",
+                    "chebien":"15 phút",
+                    "dokho":"6",
+                    "nguyenlieu":
+                  {
+                    "t1":"Rau xà lách rocket 250 gr,Dưa leo 1 trái,Lựu 1/2 trái",
+                    "t2":" Cà chua bi 100 gr, Hành tây tím 1/2 củ",
+                    "t3":"Chanh 1 trái,Muối/ tiêu 1 ít"
+                  }
+                ,
+                "cacbuoc":
+                  {
+                    "b1":"Sơ chế nguyên liệu, Rau xà lách rocket mua về rửa sạch rồi để ráo,Lựu rửa sạch, bổ ra và tách lấy hạt.",
+                    "b2":"Pha nước sốt:Trộn đều 2 muỗng canh nước cốt chanh, 1 muỗng cà phê muối và 1/4 muỗng cà phê tiêu.",
+                    "b3":"Trộn salad:Cho tất cả rau xà lách rocket, lựu, cà chua bi, dưa leo và hành tây tím vào 1 cái tô. Rưới nước sốt lên trên rồi trộn đều và nhẹ tay để các nguyên liệu thấm gia vị."
+                  }
+                ,
+                    "date":"12",
+                    "tag": "#monhan"
+                  },
+                  { "id": "5", 
+                    "name": "monhan5", 
+                    "intro": "ngon" , 
+                    "img": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2018/08/mon-ngon-han-quoc6.jpg" ,
+                    "nguyenlieu":
+                  {
+                    "t1":"Rau xà lách rocket 250 gr,Dưa leo 1 trái,Lựu 1/2 trái",
+                    "t2":" Cà chua bi 100 gr, Hành tây tím 1/2 củ",
+                    "t3":"Chanh 1 trái,Muối/ tiêu 1 ít"
+                  }
+                ,
+                "cacbuoc":
+                  {
+                    "b1":"Sơ chế nguyên liệu, Rau xà lách rocket mua về rửa sạch rồi để ráo,Lựu rửa sạch, bổ ra và tách lấy hạt.",
+                    "b2":"Pha nước sốt:Trộn đều 2 muỗng canh nước cốt chanh, 1 muỗng cà phê muối và 1/4 muỗng cà phê tiêu.",
+                    "b3":"Trộn salad:Cho tất cả rau xà lách rocket, lựu, cà chua bi, dưa leo và hành tây tím vào 1 cái tô. Rưới nước sốt lên trên rồi trộn đều và nhẹ tay để các nguyên liệu thấm gia vị."
+                  }
+                ,
+                    "date":"12",
+                    "tag": "#monhan"
+                  },
+                  { "id": "6", 
+                    "name": "monhan6", 
+                    "intro": "ngon" , 
+                    "img": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2018/08/mon-ngon-han-quoc6.jpg" ,
+                    "nguyenlieu":
+                  {
+                    "t1":"Rau xà lách rocket 250 gr,Dưa leo 1 trái,Lựu 1/2 trái",
+                    "t2":" Cà chua bi 100 gr, Hành tây tím 1/2 củ",
+                    "t3":"Chanh 1 trái,Muối/ tiêu 1 ít"
+                  }
+                ,
+                "cacbuoc":
+                  {
+                    "b1":"Sơ chế nguyên liệu, Rau xà lách rocket mua về rửa sạch rồi để ráo,Lựu rửa sạch, bổ ra và tách lấy hạt.",
+                    "b2":"Pha nước sốt:Trộn đều 2 muỗng canh nước cốt chanh, 1 muỗng cà phê muối và 1/4 muỗng cà phê tiêu.",
+                    "b3":"Trộn salad:Cho tất cả rau xà lách rocket, lựu, cà chua bi, dưa leo và hành tây tím vào 1 cái tô. Rưới nước sốt lên trên rồi trộn đều và nhẹ tay để các nguyên liệu thấm gia vị."
+                  }
+                ,
+                    "date":"12",
+                    "tag": "#monhan"
+            
+                  }
+            ]
+        },
+        {
+            "name": "Cơm phần", 
+            "img": "https://media.istockphoto.com/vectors/fried-rice-icon-asian-stirfry-bowl-dish-simple-vector-illustration-vector-id1279171172?k=20&m=1279171172&s=170667a&w=0&h=JGpx_7vQADhHHoop2APtyUPtjpE_rW1pNIwRMC2WqLE=",
+            "id":4,
+            "tl":[
+                { "id": "1", 
+                    "name": "comphan1", 
+                    "intro": "ngon 1" , 
+                    "img": "https://toplistcantho.com/wp-content/uploads/2020/07/quan-com-phan-ngon-o-can-tho-15.jpg" ,
+                    "date":"12",
+                    "nguyenlieu":
+                  {
+                    "t1":"Rau xà lách rocket 250 gr,Dưa leo 1 trái,Lựu 1/2 trái",
+                    "t2":" Cà chua bi 100 gr, Hành tây tím 1/2 củ",
+                    "t3":"Chanh 1 trái,Muối/ tiêu 1 ít"
+                  }
+                ,
+                "cacbuoc":
+                  {
+                    "b1":"Sơ chế nguyên liệu, Rau xà lách rocket mua về rửa sạch rồi để ráo,Lựu rửa sạch, bổ ra và tách lấy hạt.",
+                    "b2":"Pha nước sốt:Trộn đều 2 muỗng canh nước cốt chanh, 1 muỗng cà phê muối và 1/4 muỗng cà phê tiêu.",
+                    "b3":"Trộn salad:Cho tất cả rau xà lách rocket, lựu, cà chua bi, dưa leo và hành tây tím vào 1 cái tô. Rưới nước sốt lên trên rồi trộn đều và nhẹ tay để các nguyên liệu thấm gia vị."
+                  }
+                ,
+                    "tag": "#comphan"
+                  },
+                  { "id": "2", 
+                    "name": "comphan2", 
+                    "intro": "ngon", 
+                    "img": "https://toplistcantho.com/wp-content/uploads/2020/07/quan-com-phan-ngon-o-can-tho-15.jpg" ,
+                    "nguyenlieu":
+                  {
+                    "t1":"Rau xà lách rocket 250 gr,Dưa leo 1 trái,Lựu 1/2 trái",
+                    "t2":" Cà chua bi 100 gr, Hành tây tím 1/2 củ",
+                    "t3":"Chanh 1 trái,Muối/ tiêu 1 ít"
+                  }
+                ,
+                "cacbuoc":
+                  {
+                    "b1":"Sơ chế nguyên liệu, Rau xà lách rocket mua về rửa sạch rồi để ráo,Lựu rửa sạch, bổ ra và tách lấy hạt.",
+                    "b2":"Pha nước sốt:Trộn đều 2 muỗng canh nước cốt chanh, 1 muỗng cà phê muối và 1/4 muỗng cà phê tiêu.",
+                    "b3":"Trộn salad:Cho tất cả rau xà lách rocket, lựu, cà chua bi, dưa leo và hành tây tím vào 1 cái tô. Rưới nước sốt lên trên rồi trộn đều và nhẹ tay để các nguyên liệu thấm gia vị."
+                  }
+                ,
+                    "date":"12",
+                    "tag": "#comphan"
+                  },
+                  { "id": "3", 
+                    "name": "comphan3",
+                    "intro": "ngon" , 
+                    "img": "https://toplistcantho.com/wp-content/uploads/2020/07/quan-com-phan-ngon-o-can-tho-15.jpg" ,
+                    "nguyenlieu":
+                  {
+                    "t1":"Rau xà lách rocket 250 gr,Dưa leo 1 trái,Lựu 1/2 trái",
+                    "t2":" Cà chua bi 100 gr, Hành tây tím 1/2 củ",
+                    "t3":"Chanh 1 trái,Muối/ tiêu 1 ít"
+                  }
+                ,
+                "cacbuoc":
+                  {
+                    "b1":"Sơ chế nguyên liệu, Rau xà lách rocket mua về rửa sạch rồi để ráo,Lựu rửa sạch, bổ ra và tách lấy hạt.",
+                    "b2":"Pha nước sốt:Trộn đều 2 muỗng canh nước cốt chanh, 1 muỗng cà phê muối và 1/4 muỗng cà phê tiêu.",
+                    "b3":"Trộn salad:Cho tất cả rau xà lách rocket, lựu, cà chua bi, dưa leo và hành tây tím vào 1 cái tô. Rưới nước sốt lên trên rồi trộn đều và nhẹ tay để các nguyên liệu thấm gia vị."
+                  }
+                ,
+                    "date":"12",
+                    "tag": "#comphan"
+                  },
+                  { "id": "4", 
+                    "name": "comphan4",
+            "intro": "ngon", 
+            "nguyenlieu":
+                  {
+                    "t1":"Rau xà lách rocket 250 gr,Dưa leo 1 trái,Lựu 1/2 trái",
+                    "t2":" Cà chua bi 100 gr, Hành tây tím 1/2 củ",
+                    "t3":"Chanh 1 trái,Muối/ tiêu 1 ít"
+                  }
+                ,
+                "cacbuoc":
+                  {
+                    "b1":"Sơ chế nguyên liệu, Rau xà lách rocket mua về rửa sạch rồi để ráo,Lựu rửa sạch, bổ ra và tách lấy hạt.",
+                    "b2":"Pha nước sốt:Trộn đều 2 muỗng canh nước cốt chanh, 1 muỗng cà phê muối và 1/4 muỗng cà phê tiêu.",
+                    "b3":"Trộn salad:Cho tất cả rau xà lách rocket, lựu, cà chua bi, dưa leo và hành tây tím vào 1 cái tô. Rưới nước sốt lên trên rồi trộn đều và nhẹ tay để các nguyên liệu thấm gia vị."
+                  }
+                ,
+                    "img": "https://toplistcantho.com/wp-content/uploads/2020/07/quan-com-phan-ngon-o-can-tho-15.jpg" ,
+                    "date":"12",
+                    "tag": "#comphan"
+                  },
+                  { "id": "5", 
+                    "name": "comphan5", 
+                    "intro": "ngon" , 
+                    "img": "https://toplistcantho.com/wp-content/uploads/2020/07/quan-com-phan-ngon-o-can-tho-15.jpg" ,
+                    "date":"12",
+                    "nguyenlieu":
+                  {
+                    "t1":"Rau xà lách rocket 250 gr,Dưa leo 1 trái,Lựu 1/2 trái",
+                    "t2":" Cà chua bi 100 gr, Hành tây tím 1/2 củ",
+                    "t3":"Chanh 1 trái,Muối/ tiêu 1 ít"
+                  }
+                ,
+                "cacbuoc":
+                  {
+                    "b1":"Sơ chế nguyên liệu, Rau xà lách rocket mua về rửa sạch rồi để ráo,Lựu rửa sạch, bổ ra và tách lấy hạt.",
+                    "b2":"Pha nước sốt:Trộn đều 2 muỗng canh nước cốt chanh, 1 muỗng cà phê muối và 1/4 muỗng cà phê tiêu.",
+                    "b3":"Trộn salad:Cho tất cả rau xà lách rocket, lựu, cà chua bi, dưa leo và hành tây tím vào 1 cái tô. Rưới nước sốt lên trên rồi trộn đều và nhẹ tay để các nguyên liệu thấm gia vị."
+                  }
+                ,
+                    "tag": "#comphan"
+                  },
+                  { "id": "6", 
+                    "name": "comphan6", 
+                    "intro": "ngon" , 
+                    "img": "https://toplistcantho.com/wp-content/uploads/2020/07/quan-com-phan-ngon-o-can-tho-15.jpg" ,
+                    "nguyenlieu":
+                  {
+                    "t1":"Rau xà lách rocket 250 gr,Dưa leo 1 trái,Lựu 1/2 trái",
+                    "t2":" Cà chua bi 100 gr, Hành tây tím 1/2 củ",
+                    "t3":"Chanh 1 trái,Muối/ tiêu 1 ít"
+                  }
+                ,
+                "cacbuoc":
+                  {
+                    "b1":"Sơ chế nguyên liệu, Rau xà lách rocket mua về rửa sạch rồi để ráo,Lựu rửa sạch, bổ ra và tách lấy hạt.",
+                    "b2":"Pha nước sốt:Trộn đều 2 muỗng canh nước cốt chanh, 1 muỗng cà phê muối và 1/4 muỗng cà phê tiêu.",
+                    "b3":"Trộn salad:Cho tất cả rau xà lách rocket, lựu, cà chua bi, dưa leo và hành tây tím vào 1 cái tô. Rưới nước sốt lên trên rồi trộn đều và nhẹ tay để các nguyên liệu thấm gia vị."
+                  }
+                ,
+                    "date":"12",
+                    "tag": "#comphan"
+            
+                  },
+                  { "id": "7", 
+                    "name": "comphan7", 
+                    "intro": "ngon" , 
+                    "img": "https://toplistcantho.com/wp-content/uploads/2020/07/quan-com-phan-ngon-o-can-tho-15.jpg" ,
+                    "nguyenlieu":
+                  {
+                    "t1":"Rau xà lách rocket 250 gr,Dưa leo 1 trái,Lựu 1/2 trái",
+                    "t2":" Cà chua bi 100 gr, Hành tây tím 1/2 củ",
+                    "t3":"Chanh 1 trái,Muối/ tiêu 1 ít"
+                  }
+                ,
+                "cacbuoc":
+                  {
+                    "b1":"Sơ chế nguyên liệu, Rau xà lách rocket mua về rửa sạch rồi để ráo,Lựu rửa sạch, bổ ra và tách lấy hạt.",
+                    "b2":"Pha nước sốt:Trộn đều 2 muỗng canh nước cốt chanh, 1 muỗng cà phê muối và 1/4 muỗng cà phê tiêu.",
+                    "b3":"Trộn salad:Cho tất cả rau xà lách rocket, lựu, cà chua bi, dưa leo và hành tây tím vào 1 cái tô. Rưới nước sốt lên trên rồi trộn đều và nhẹ tay để các nguyên liệu thấm gia vị."
+                  }
+                ,
+                    "date":"12",
+                    "tag": "#comphan"
+                  },
+                  { "id": "8", 
+                    "name": " comphan8", 
+                    "intro": "ngon" , 
+                    "img": "https://toplistcantho.com/wp-content/uploads/2020/07/quan-com-phan-ngon-o-can-tho-15.jpg" ,
+                    "nguyenlieu":
+                  {
+                    "t1":"Rau xà lách rocket 250 gr,Dưa leo 1 trái,Lựu 1/2 trái",
+                    "t2":" Cà chua bi 100 gr, Hành tây tím 1/2 củ",
+                    "t3":"Chanh 1 trái,Muối/ tiêu 1 ít"
+                  }
+                ,
+                "cacbuoc":
+                  {
+                    "b1":"Sơ chế nguyên liệu, Rau xà lách rocket mua về rửa sạch rồi để ráo,Lựu rửa sạch, bổ ra và tách lấy hạt.",
+                    "b2":"Pha nước sốt:Trộn đều 2 muỗng canh nước cốt chanh, 1 muỗng cà phê muối và 1/4 muỗng cà phê tiêu.",
+                    "b3":"Trộn salad:Cho tất cả rau xà lách rocket, lựu, cà chua bi, dưa leo và hành tây tím vào 1 cái tô. Rưới nước sốt lên trên rồi trộn đều và nhẹ tay để các nguyên liệu thấm gia vị."
+                  }
+                ,
+                    "date":"12",
+                    "tag": "#comphan"
+                  },
+                  { "id": "9", 
+                    "name": "comphan9", 
+                    "intro": "ngon", 
+                    "img": "https://toplistcantho.com/wp-content/uploads/2020/07/quan-com-phan-ngon-o-can-tho-15.jpg" ,
+                    "nguyenlieu":
+                  {
+                    "t1":"Rau xà lách rocket 250 gr,Dưa leo 1 trái,Lựu 1/2 trái",
+                    "t2":" Cà chua bi 100 gr, Hành tây tím 1/2 củ",
+                    "t3":"Chanh 1 trái,Muối/ tiêu 1 ít"
+                  }
+                ,
+                "cacbuoc":
+                  {
+                    "b1":"Sơ chế nguyên liệu, Rau xà lách rocket mua về rửa sạch rồi để ráo,Lựu rửa sạch, bổ ra và tách lấy hạt.",
+                    "b2":"Pha nước sốt:Trộn đều 2 muỗng canh nước cốt chanh, 1 muỗng cà phê muối và 1/4 muỗng cà phê tiêu.",
+                    "b3":"Trộn salad:Cho tất cả rau xà lách rocket, lựu, cà chua bi, dưa leo và hành tây tím vào 1 cái tô. Rưới nước sốt lên trên rồi trộn đều và nhẹ tay để các nguyên liệu thấm gia vị."
+                  }
+                ,
+                    "date":"12",
+                    "tag": "#comphan"
+                  },
+                  { "id": "10", 
+                    "name": "comphan10 ", 
+                    "intro": "ngon", 
+                    "nguyenlieu":
+                  {
+                    "t1":"Rau xà lách rocket 250 gr,Dưa leo 1 trái,Lựu 1/2 trái",
+                    "t2":" Cà chua bi 100 gr, Hành tây tím 1/2 củ",
+                    "t3":"Chanh 1 trái,Muối/ tiêu 1 ít"
+                  }
+                ,
+                "cacbuoc":
+                  {
+                    "b1":"Sơ chế nguyên liệu, Rau xà lách rocket mua về rửa sạch rồi để ráo,Lựu rửa sạch, bổ ra và tách lấy hạt.",
+                    "b2":"Pha nước sốt:Trộn đều 2 muỗng canh nước cốt chanh, 1 muỗng cà phê muối và 1/4 muỗng cà phê tiêu.",
+                    "b3":"Trộn salad:Cho tất cả rau xà lách rocket, lựu, cà chua bi, dưa leo và hành tây tím vào 1 cái tô. Rưới nước sốt lên trên rồi trộn đều và nhẹ tay để các nguyên liệu thấm gia vị."
+                  }
+                ,
+                    "img": "https://toplistcantho.com/wp-content/uploads/2020/07/quan-com-phan-ngon-o-can-tho-15.jpg" ,
+                    "date":"12",
+                    "tag": "#comphan"
+                  }
+            ]
+        },
+        {
+            "name": "Bánh ngọt", 
+            "img": "https://raw.githubusercontent.com/feMoraes0/food-bit-app/master/images/Icon-002.png",
+            "id":5,
+            "tl":[
+                { "id": "1", 
+                    "name": "banhngot1", 
+                    "intro": "ngon 1" , 
+                    "img": "https://thuhuongbakery.com.vn/wp-content/uploads/2020/07/d9c2f1f2089fce76027facf17defe986-e1597136991962.jpg" ,
+                    "nguyenlieu":
+                  {
+                    "t1":"Rau xà lách rocket 250 gr,Dưa leo 1 trái,Lựu 1/2 trái",
+                    "t2":" Cà chua bi 100 gr, Hành tây tím 1/2 củ",
+                    "t3":"Chanh 1 trái,Muối/ tiêu 1 ít"
+                  }
+                ,
+                "cacbuoc":
+                  {
+                    "b1":"Sơ chế nguyên liệu, Rau xà lách rocket mua về rửa sạch rồi để ráo,Lựu rửa sạch, bổ ra và tách lấy hạt.",
+                    "b2":"Pha nước sốt:Trộn đều 2 muỗng canh nước cốt chanh, 1 muỗng cà phê muối và 1/4 muỗng cà phê tiêu.",
+                    "b3":"Trộn salad:Cho tất cả rau xà lách rocket, lựu, cà chua bi, dưa leo và hành tây tím vào 1 cái tô. Rưới nước sốt lên trên rồi trộn đều và nhẹ tay để các nguyên liệu thấm gia vị."
+                  }
+                ,
+                    "date":"12",
+                    "tag": "#banhngot"
+                  },
+                  { "id": "2", 
+                    "name": "banhngot2", 
+                    "intro": "ngon", 
+                    "img": "https://thuhuongbakery.com.vn/wp-content/uploads/2020/07/d9c2f1f2089fce76027facf17defe986-e1597136991962.jpg" ,
+                    "date":"12",
+                    "tag": "#banhngot"
+                  },
+                  { "id": "3", 
+                    "name": "banhngot3",
+                    "intro": "ngon" ,
+            "img": "https://thuhuongbakery.com.vn/wp-content/uploads/2020/07/d9c2f1f2089fce76027facf17defe986-e1597136991962.jpg" ,
+                    "date":"12",
+                    "tag": "#banhngot"
+                  },
+                  { "id": "4", 
+                    "name": "banhngot4", 
+                    "intro": "ngon", 
+                    "img": "https://thuhuongbakery.com.vn/wp-content/uploads/2020/07/d9c2f1f2089fce76027facf17defe986-e1597136991962.jpg" ,
+                    "date":"12",
+                    "tag": "#banhngot"
+                  },
+                  { "id": "5", 
+                    "name": "banhngot5", 
+                    "intro": "ngon" , 
+                    "img": "https://thuhuongbakery.com.vn/wp-content/uploads/2020/07/d9c2f1f2089fce76027facf17defe986-e1597136991962.jpg" ,
+                    "date":"12",
+                    "tag": "#banhngot"
+                  },
+                  { "id": "6", 
+                    "name": "banhngot6", 
+                    "intro": "ngon" , 
+                    "img": "https://thuhuongbakery.com.vn/wp-content/uploads/2020/07/d9c2f1f2089fce76027facf17defe986-e1597136991962.jpg" ,
+                    "date":"12",
+                    "tag": "#banhngot"
+            
+                  },
+                  { "id": "7", 
+                    "name": "banhngot7", 
+                    "intro": "ngon" , 
+                    "img": "https://thuhuongbakery.com.vn/wp-content/uploads/2020/07/d9c2f1f2089fce76027facf17defe986-e1597136991962.jpg" ,
+                    "date":"12",
+                    "tag": "#banhngot"
+                  },
+                  { "id": "8", 
+                    "name": " banhngot8", 
+                    "intro": "ngon" , 
+                    "img": "https://thuhuongbakery.com.vn/wp-content/uploads/2020/07/d9c2f1f2089fce76027facf17defe986-e1597136991962.jpg" ,
+                    "date":"12",
+                    "tag": "#banhngot"
+                  },
+                  { "id": "9", 
+                    "name": "banhngot9", 
+                    "intro": "ngon", 
+                    "img": "https://thuhuongbakery.com.vn/wp-content/uploads/2020/07/d9c2f1f2089fce76027facf17defe986-e1597136991962.jpg" ,
+                    "date":"12",
+                    "tag": "#banhngot"
+                  },
+                  { "id": "10", 
+                    "name": "banhngot10 ", 
+                    "intro": "ngon", 
+                    "img": "https://thuhuongbakery.com.vn/wp-content/uploads/2020/07/d9c2f1f2089fce76027facf17defe986-e1597136991962.jpg" ,
+                    "date":"12",
+                    "tag": "#banhngot"
+                  }
+            ]
+        },
+        {
+            "name": "Bún/Phở", 
+            "img": "https://cdn.shopify.com/s/files/1/0933/4380/products/PhonaticStickerHero.png?v=1601496707",
+            "id":6,
+            "tl":[
+                { "id": "1", 
+                    "name": "bun/pho1", 
+                    "intro": "ngon 1" , 
+                    "img": "https://image.thanhnien.vn/w2048/Uploaded/2021/lxwpcqjwp/2019_10_09/anh_1_dzzf.jpg" ,
+                    "date":"12",
+                    "tag": "#bun/pho"
+                  },
+                  { "id": "2", 
+                    "name": "bun/pho2", 
+                    "intro": "ngon", 
+                    "img": "https://image.thanhnien.vn/w2048/Uploaded/2021/lxwpcqjwp/2019_10_09/anh_1_dzzf.jpg" ,
+                    "date":"12",
+                    "tag": "#bun/pho"
+                  },
+                  { "id": "3", 
+                    "name": "bun/pho3",
+                    "intro": "ngon" , 
+                    "img": "https://image.thanhnien.vn/w2048/Uploaded/2021/lxwpcqjwp/2019_10_09/anh_1_dzzf.jpg" ,
+                    "date":"12",
+                    "tag": "#bun/pho"
+                  },
+                  { "id": "4", 
+                    "name": "bun/pho4", 
+                    "intro": "ngon", 
+                    "img": "https://image.thanhnien.vn/w2048/Uploaded/2021/lxwpcqjwp/2019_10_09/anh_1_dzzf.jpg" ,
+                    "date":"12",
+                    "tag": "#bun/pho"
+                  },
+                  { "id": "5", 
+                    "name": "bun/pho5", 
+                    "intro": "ngon" , 
+                    "img": "https://image.thanhnien.vn/w2048/Uploaded/2021/lxwpcqjwp/2019_10_09/anh_1_dzzf.jpg" ,
+                    "date":"12",
+                    "tag": "#bun/pho"
+                  },
+                  { "id": "6", 
+                    "name": "bun/pho6", 
+                    "intro": "ngon" , 
+                    "img": "https://image.thanhnien.vn/w2048/Uploaded/2021/lxwpcqjwp/2019_10_09/anh_1_dzzf.jpg" ,
+                    "date":"12",
+                    "tag": "#bun/pho"
+            
+                  },
+                  { "id": "7", 
+                    "name": "bun/pho7", 
+                    "intro": "ngon" , 
+                    "img": "https://image.thanhnien.vn/w2048/Uploaded/2021/lxwpcqjwp/2019_10_09/anh_1_dzzf.jpg" ,
+                    "date":"12",
+                    "tag": "#bun/pho"
+                  },
+                  { "id": "8", 
+                    "name": " bun/pho8", 
+                    "intro": "ngon" , 
+                    "img": "https://image.thanhnien.vn/w2048/Uploaded/2021/lxwpcqjwp/2019_10_09/anh_1_dzzf.jpg" ,
+                    "date":"12",
+                    "tag": "#bun/pho"
+                  },
+                  { "id": "9", 
+                    "name": "bun/pho9", 
+                    "intro": "ngon", 
+                    "img": "https://image.thanhnien.vn/w2048/Uploaded/2021/lxwpcqjwp/2019_10_09/anh_1_dzzf.jpg" ,
+                    "date":"12",
+                    "tag": "#bun/pho"
+                  },
+                  { "id": "10", 
+                    "name": "bun/pho10 ", 
+                    "intro": "ngon", 
+                    "img": "https://image.thanhnien.vn/w2048/Uploaded/2021/lxwpcqjwp/2019_10_09/anh_1_dzzf.jpg" ,
+                    "date":"12",
+                    "tag": "#bun/pho"
+                  }
+            ]
+        },
+        {
+            "name": "Ăn vặt", 
+            "img": "https://raw.githubusercontent.com/feMoraes0/food-bit-app/master/images/Icon-003.png",
+            "id":7,
+            "tl":[
+                { "id": "1", 
+                    "name": "anvat1", 
+                    "intro": "ngon 1" , 
+                    "img": "https://inhat.vn/ha-noi/wp-content/uploads/2019/05/mon-an-vat-ha-noi-2-2.jpg" ,
+                    "date":"12",
+                    "tag": "#anvat"
+                  },
+                  { "id": "2", 
+                    "name": "anvat2", 
+                    "intro": "ngon", 
+                    "img": "https://inhat.vn/ha-noi/wp-content/uploads/2019/05/mon-an-vat-ha-noi-2-2.jpg" ,
+                    "date":"12",
+                    "tag": "#anvat"
+                  },
+                  { "id": "3", 
+                    "name": "anvat3",
+                    "intro": "ngon" , 
+                    "img": "https://inhat.vn/ha-noi/wp-content/uploads/2019/05/mon-an-vat-ha-noi-2-2.jpg" ,
+                    "date":"12",
+                    "tag": "#anvat"
+                  },
+                  { "id": "4", 
+                    "name": "anvat4", 
+                    "intro": "ngon", 
+                    "img": "https://inhat.vn/ha-noi/wp-content/uploads/2019/05/mon-an-vat-ha-noi-2-2.jpg" ,
+                    "date":"12",
+                    "tag": "#anvat"
+                  },
+                  { "id": "5", 
+                    "name": "anvat5", 
+                    "intro": "ngon" ,
+            "img": "https://inhat.vn/ha-noi/wp-content/uploads/2019/05/mon-an-vat-ha-noi-2-2.jpg" ,
+                    "date":"12",
+                    "tag": "#anvat"
+                  },
+                  { "id": "6", 
+                    "name": "anvat6", 
+                    "intro": "ngon" , 
+                    "img": "https://inhat.vn/ha-noi/wp-content/uploads/2019/05/mon-an-vat-ha-noi-2-2.jpg" ,
+                    "date":"12",
+                    "tag": "#anvat"
+            
+                  },
+                  { "id": "7", 
+                    "name": "anvat7", 
+                    "intro": "ngon" , 
+                    "img": "https://inhat.vn/ha-noi/wp-content/uploads/2019/05/mon-an-vat-ha-noi-2-2.jpg" ,
+                    "date":"12",
+                    "tag": "#anvat"
+                  },
+                  { "id": "8", 
+                    "name": " anvat8", 
+                    "intro": "ngon" , 
+                    "img": "https://inhat.vn/ha-noi/wp-content/uploads/2019/05/mon-an-vat-ha-noi-2-2.jpg" ,
+                    "date":"12",
+                    "tag": "#anvat"
+                  },
+                  { "id": "9", 
+                    "name": "anvat9", 
+                    "intro": "ngon", 
+                    "img": "https://inhat.vn/ha-noi/wp-content/uploads/2019/05/mon-an-vat-ha-noi-2-2.jpg" ,
+                    "date":"12",
+                    "tag": "#anvat"
+                  },
+                  { "id": "10", 
+                    "name": "anvat10 ", 
+                    "intro": "ngon", 
+                    "img": "https://inhat.vn/ha-noi/wp-content/uploads/2019/05/mon-an-vat-ha-noi-2-2.jpg" ,
+                    "date":"12",
+                    "tag": "#anvat"
+                  }
+            ]
+        },
+        
+        {   
+          "name": "All", 
+          "intro":"Hàng trăm công thức được hướng dẫn chi tiết cùng hình ảnh minh họa sinh động, bạn sẽ dễ dàng tự tay nấu nhiều món ăn ngon để chiêu đãi cho người thân, bạn bè.",
+          "id":8,
+          "tl":[
+            { "id": "0", 
+              "name": " Gà rán giòn cay", 
+              "intro": "Bột ớt paprika bạn có thể chọn mua tại các chợ, siêu thị, cửa hàng thực phẩm uy tín.", 
+              "img": "https://cdn.tgdd.vn/2020/12/CookRecipe/Avatar/ga-ran-gion-cay-don-gian-hap-dan-cho-le-giang-sinh-thumbnail-1.jpg" ,
+              "chuanbi":"5 phút",
+              "chebien":"30 phút",
+              "dokho":"6",
+              "nguyenlieu":
+                {
+                  "t1":" Gà 500 gr,(đùi gà hoặc cánh gà),Trứng 1 quả,Bột mì đa dụng 170 gr,Bột bắp 80 gr,Tiêu 1/2 muỗng cà phê",
+                  "t2":"Bột nở 1/2 muỗng cà phê,Bột ớt thường 1 ít, Sữa tươi không đường 120 ml, Giấm 1 muỗng canh, Dầu ăn 250 ml,Muối 1 ít",
+                  "t3":" Bột ớt Paprika 1 muỗng cà phê,Bột tỏi 1/2 muỗng cà phê, Bột gừng 1/3 muỗng cà phê, Nước 200 ml"
+                }
+              ,
+              "cacbuoc":
+                {
+                  "b1":"Sơ chế gà, Để sơ chế gà sạch và không hôi bạn dùng 1 muỗng canh giấm hòa tan với muối rồi thoa đều lên gà hoặc có thể ngâm trong muối và giấm pha loãng trong khoảng 3 - 5 phút.",
+                  "b2":"Ướp gà, Cho phần gà đã sơ chế vào tô, lần lượt cho vào 1 muỗng cà phê muối, 1/2 muỗng cà phê bột tỏi, 1/3 muỗng cà phê bột gừng, 1/2 muỗng cà phê bột ớt paprika, 1/2 muỗng cà phê bột ớt thường, 1/2 muỗng cà phê tiêu sau đó trộn đều hỗn hợp lên.",
+                  "b3":"Làm bột nhúng và bột áo,Chiên gà."
+                }
+              ,
+              "date":"12",
+              "tag": "#garan,#cay"
+            },
+              { "id": "1", 
+                  "name": "Rocket salad dưa leo lựu", 
+                  "intro": "Những ngày hè nóng nực thì không gì tuyệt vời hơn một dĩa salad rocket - món gỏi trộn mát lạnh lại cung cấp một lượng nước dồi dào cho cơ thể. Vào bếp thực hiện 3 cách làm rocket salad cực kì đơn giản ngay thôi!" , 
+                  "img": "https://vietucnews.net/wp-content/uploads/2017/10/food_photography_palm_beach_gardens_florida_parched_pig.jpg" ,
+                  "date":"12",
+                  "chuanbi":"10 phút",
+                  "chebien":"5 phút",
+                  "dokho":"7",
+                  "nguyenlieu":
+                    {
+                      "t1":"Rau xà lách rocket 250 gr,Dưa leo 1 trái,Lựu 1/2 trái",
+                      "t2":" Cà chua bi 100 gr, Hành tây tím 1/2 củ",
+                      "t3":"Chanh 1 trái,Muối/ tiêu 1 ít"
+                    }
+                  ,
+                  "cacbuoc":
+                    {
+                      "b1":"Sơ chế nguyên liệu, Rau xà lách rocket mua về rửa sạch rồi để ráo,Lựu rửa sạch, bổ ra và tách lấy hạt.",
+                      "b2":"Pha nước sốt:Trộn đều 2 muỗng canh nước cốt chanh, 1 muỗng cà phê muối và 1/4 muỗng cà phê tiêu.",
+                      "b3":"Trộn salad:Cho tất cả rau xà lách rocket, lựu, cà chua bi, dưa leo và hành tây tím vào 1 cái tô. Rưới nước sốt lên trên rồi trộn đều và nhẹ tay để các nguyên liệu thấm gia vị."
+                    }
+                  ,
+                  "tag": "#salad,#dualeo"
+                },
+                {  "id": "2", 
+                  "name": "Trà sữa socola", 
+                  "intro": "Trà sữa socola sẽ có thêm vị đắng êm đềm và vị thơm mạnh mẽ từ bột cacao, cùng màu nâu đậm đẹp mắt cực kì hấp dẫn." , 
+                  "img": "https://file.hstatic.net/1000135323/file/5_4af34c1e35cd4a24b93370f492e16a3c_1024x1024.jpg" ,
+                  "chuanbi":"5 phút",
+                  "chebien":"15 phút",
+                  "dokho":"4",
+                  "nguyenlieu":
+                    {
+                      "t1":"",
+                      "t2":"",
+                      "t3":""
+                    }
+                  ,
+                  "cacbuoc":
+                    {
+                      "b1":"",
+                      "b2":"",
+                      "b3":""
+                    }
+                  ,
+                  "date":"12",
+                  "tag": "#trasua,#socola"
+                },
+                {  "id": "3", 
+                  "name": "Trà sữa matcha",
+                  "intro": "Trà sữa matcha có vị thanh nhẹ, chát dịu. Vị trà tự nhiên và rõ nét hơn so với trà sữa pha từ trà xanh thông thường. Matcha ngày càng được sử dụng rộng rãi trong pha chế và sáng tạo đồ uống." , 
+                  "img": "https://file.hstatic.net/1000135323/file/3_003d1af42d474d3e9b9412555e8f4f70_1024x1024.jpg" ,
+                  "chuanbi":"10 phút",
+                  "chebien":"15 phút",
+                  "dokho":"6",
+                  "nguyenlieu":
+                    {
+                      "t1":"",
+                      "t2":"",
+                      "t3":""
+                    }
+                  ,
+                  "cacbuoc":
+                    {
+                      "b1":"",
+                      "b2":"",
+                      "b3":""
+                    }
+                  ,
+                  "date":"12",
+                  "tag": "#trasua,#matcha"
+                },
+                { "id": "4", 
+                  "name": "KIMCHI HÀN QUỐC", 
+                  "intro": "Kim chi được xem như món ăn điển hình của ẩm thực Hàn Quốc. Ở Hàn, kim chi được dùng trong hầu hết các bữa ăn hằng ngày và là thành phần của nhiều món như: kimchi jjigae (canh kim chi), kimchi bokkeumbap (cơm chiên kim chi).", 
+                  "img": "data:image/jpeg;base64,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" ,
+                  "chuanbi":"10 phút",
+                  "chebien":"15 phút",
+                  "dokho":"6",
+                  "nguyenlieu":
+                    {
+                      "t1":"",
+                      "t2":"",
+                      "t3":""
+                    }
+                  ,
+                  "cacbuoc":
+                    {
+                      "b1":"",
+                      "b2":"",
+                      "b3":""
+                    }
+                  ,
+                  "date":"12",
+                  "tag": "#monhan,#kimchi"
+                },
+                { "id": "5", 
+                  "name": "Gà rán sốt cay", 
+                  "intro": "Món ăn nhanh gọn và rất ngon, vị giống món gà sốt cay ở các tiệm gà rán", 
+                  "img": "https://img-global.cpcdn.com/recipes/958d1ddf29d2035e/640x640sq70/photo.webp" ,
+                  "chuanbi":"10 phút",
+                  "chebien":"15 phút",
+                  "dokho":"6",
+                  "nguyenlieu":
+                    {
+                      "t1":"",
+                      "t2":"",
+                      "t3":""
+                    }
+                  ,
+                  "cacbuoc":
+                    {
+                      "b1":"",
+                      "b2":"",
+                      "b3":""
+                    }
+                  ,
+                  "date":"12",
+                  "tag": "#garan,#sot"
+                },
+                { "id": "6", 
+                  "name": "Salad thịt gà", 
+                  "intro": "Bạn có thể chế biến món salad thịt gà một cách đơn giản chỉ với các bước ngay sau đây. Cùng TASTY Kitchen tham khảo nhé." , 
+                  "img": "https://img.tastykitchen.vn/resize/764x-/2021/05/31/mon-salad-thit-ga-dinh-duong-8ab8.jpg" ,
+                  "chuanbi":"10 phút",
+                  "chebien":"10 phút",
+                  "nguyenlieu":
+                    {
+                      "t1":"",
+                      "t2":"",
+                      "t3":""
+                    }
+                  ,
+                  "cacbuoc":
+                    {
+                      "b1":"",
+                      "b2":"",
+                      "b3":""
+                    }
+                  ,
+                  "dokho":"8",
+                  "date":"12",
+                  "tag": "#salad"
+          
+                },
+                  
+                  { "id": "16", 
+                    "name": "Salad cà chua", 
+                    "intro": "Cách làm salad cà chua rất đơn giản chỉ với một vài bước chuẩn bị nguyên liệu và sơ chế như sau:" , 
+                    "img": "https://img.tastykitchen.vn/resize/764x-/2021/05/31/thuong-thuc-mon-salad-ca-chua-voi-cong-thuc-che-bi-171d.jpg" ,
+                    "date":"12",
+                    "chuanbi":"5 phút",
+                    "nguyenlieu":
+                    {
+                      "t1":"",
+                      "t2":"",
+                      "t3":""
+                    }
+                  ,
+                  "cacbuoc":
+                    {
+                      "b1":"",
+                      "b2":"",
+                      "b3":""
+                    }
+                  ,
+                    "chebien":"5 phút",
+                    "dokho":"4",
+                    "tag": "#salad,#cachua"
+                  },
+                  
+                  { "id": "25",
+                    "name": "Trà sữa Thái xanh, Thái đỏ", 
+                    "intro": "Trà sữa Thái với vị ngọt đậm đà, hương trà nồng nàn cũng là một loại trà sữa rất được yêu thích. Loại trà khô để pha chế là trà đặc trưng của Thái Lan, có hương vị rất đặc biệt. Ngoài ra chúng ta nên dùng sữa đặc để tạo vị ngọt rõ nét cho đồ uống.", 
+                    "img": "https://file.hstatic.net/1000135323/file/2_3addd09a15414742b758efa35c46c528_1024x1024.jpg" ,
+                    "chuanbi":"10 phút",
+                    "chebien":"15 phút",
+                    "dokho":"6",
+                    "nguyenlieu":
+                    {
+                      "t1":"",
+                      "t2":"",
+                      "t3":""
+                    }
+                  ,
+                  "cacbuoc":
+                    {
+                      "b1":"",
+                      "b2":"",
+                      "b3":""
+                    }
+                  ,
+                    "date":"12",
+                    "tag": "#trasua,#thai"
+                  },
+                  { "id": "19", 
+                    "name": "Salad trứng gà",
+                    "intro": "Chế biến món salad trứng gà cho gia đình thưởng thức chỉ với những nguyên liệu đơn giản và cách làm nhanh gọn ngay sau đây cùng TASTY Kitchen nhé." , 
+                    "img": "https://img.tastykitchen.vn/resize/764x-/2021/05/31/mon-salad-trung-ga-don-gian-1104.jpg" ,
+                    "chuanbi":"5-10 phút",
+                    "chebien":"5-10 phút",
+                    "nguyenlieu":
+                    {
+                      "t1":"",
+                      "t2":"",
+                      "t3":""
+                    }
+                  ,
+                  "cacbuoc":
+                    {
+                      "b1":"",
+                      "b2":"",
+                      "b3":""
+                    }
+                  ,
+                    "dokho":"3",
+                    "date":"12",
+                    "tag": "#salad,#trungga"
+                  },
+                  { "id": "20", 
+                    "name": "Salad trái cây", 
+                    "intro": "Với những bạn đam mê trái cây và có nhu cầu làm đẹp thì salad trái cây chính là sự lựa chọn hoàn hảo.", 
+                    "img": "https://img.tastykitchen.vn/resize/764x-/2021/05/31/lam-dep-da-lay-lai-voc-dang-voi-mon-salad-trai-cay-5ef8.jpg" ,
+                    "chuanbi":"5-10 phút",
+                    "chebien":"5 phút",
+                    "nguyenlieu":
+                    {
+                      "t1":"",
+                      "t2":"",
+                      "t3":""
+                    }
+                  ,
+                  "cacbuoc":
+                    {
+                      "b1":"",
+                      "b2":"",
+                      "b3":""
+                    }
+                  ,
+                    "dokho":"3",
+                    "date":"12",
+                    "tag": "#salad,#traicay"
+                  },
+                  { "id": "21", 
+                    "name": "Salad dưa chuột", 
+                    "intro": "Đây là món ăn giúp bạn đỡ cảm giác ngán thức ăn và phù hợp để thưởng thức vào những ngày thời tiết oi bức." , 
+                    "img": "https://pastaxi-manager.onepas.vn/content/uploads/articles/cach-lam-salad-ca-chua-dua-chuot/cach-lam-ca-chua-dua-chuot-5.jpg" ,
+                    "chuanbi":"5 phút",
+                    "chebien":"5 phút",
+                    "nguyenlieu":
+                    {
+                      "t1":"",
+                      "t2":"",
+                      "t3":""
+                    }
+                  ,
+                  "cacbuoc":
+                    {
+                      "b1":"",
+                      "b2":"",
+                      "b3":""
+                    }
+                  ,
+                    "dokho":"5",
+                    "date":"12",
+                    "tag": "#salad,#duachuot"
+                  },
+                  { "id": "22", 
+                    "name": "Salad thịt gà", 
+                    "intro": "Bạn có thể chế biến món salad thịt gà một cách đơn giản chỉ với các bước ngay sau đây. Cùng TASTY Kitchen tham khảo nhé." , 
+                    "img": "https://img.tastykitchen.vn/resize/764x-/2021/05/31/mon-salad-thit-ga-dinh-duong-8ab8.jpg" ,
+                    "chuanbi":"10 phút",
+                    "chebien":"10 phút",
+                    "nguyenlieu":
+                    {
+                      "t1":"",
+                      "t2":"",
+                      "t3":""
+                    }
+                  ,
+                  "cacbuoc":
+                    {
+                      "b1":"",
+                      "b2":"",
+                      "b3":""
+                    }
+                  ,
+                    "dokho":"7",
+                    "date":"12",
+                    "tag": "#salad,#ga"
+            
+                  },
+                  
+                  
+                  { "id": "23", 
+                    "name": "Salad cá ngừ", 
+                    "intro": "Món salad cá ngừ ở các nhà hàng đồ ăn Tây hấp dẫn nhiều người. Bạn cũng có thể làm được món này khi vào bếp tại nhà với 3 công thức làm salad cá ngừ cực đơn giản từ Điện máy XANH.                    " , 
+                    "img": "https://cdn.tgdd.vn/Files/2019/11/15/1219188/3-cong-thuc-lam-salad-ca-ngu-cuc-don-gian-giau-dinh-duong-lam-nhanh-760x367.jpg" ,
+                    "chuanbi":"10 phút",
+                    "chebien":"30 phút",
+                    "nguyenlieu":
+                    {
+                      "t1":"",
+                      "t2":"",
+                      "t3":""
+                    }
+                  ,
+                  "cacbuoc":
+                    {
+                      "b1":"",
+                      "b2":"",
+                      "b3":""
+                    }
+                  ,
+                    "dokho":"8",
+                    "date":"12",
+                    "tag": "#salad,#cangu"
+                  },
+                  { "id": "24", 
+                    "name": "Trà sữa trân châu", 
+                    "intro": "Đây là một đồ uống truyền thống nhưng không bao giờ cũ, là món mà bất cứ quán trà sữa nào cũng có. Vì vậy chúng ta không thể bỏ qua cách làm trà sữa trân châu phải không nào?" , 
+                    "img": "https://file.hstatic.net/1000135323/file/1_1b353798336e46edb16bf722b2e2990e_1024x1024.jpg" ,
+                    "chuanbi":"10 phút",
+                    "chebien":"30 phút",
+                    "dokho":"5",
+                    "nguyenlieu":
+                    {
+                      "t1":"",
+                      "t2":"",
+                      "t3":""
+                    }
+                  ,
+                  "cacbuoc":
+                    {
+                      "b1":"",
+                      "b2":"",
+                      "b3":""
+                    }
+                  ,
+                    "date":"12",
+                    "tag": "#trasua,#trasuatranchau"
+                  },
+                  { "id": "26", 
+                    "name": "Trà sữa matcha",
+                    "intro": "Trà sữa matcha có vị thanh nhẹ, chát dịu. Vị trà tự nhiên và rõ nét hơn so với trà sữa pha từ trà xanh thông thường. Matcha ngày càng được sử dụng rộng rãi trong pha chế và sáng tạo đồ uống." , 
+                    "img": "https://file.hstatic.net/1000135323/file/3_003d1af42d474d3e9b9412555e8f4f70_1024x1024.jpg" ,
+                    "chuanbi":"10 phút",
+                    "chebien":"15 phút",
+                    "dokho":"6",
+                    "nguyenlieu":
+                    {
+                      "t1":"",
+                      "t2":"",
+                      "t3":""
+                    }
+                  ,
+                  "cacbuoc":
+                    {
+                      "b1":"",
+                      "b2":"",
+                      "b3":""
+                    }
+                  ,
+                    "date":"12",
+                    "tag": "#trasua,#matcha"
+                  },
+                  { "id": "27", 
+                    "name": "Trà sữa đào", 
+                    "intro": "Trà sữa đào bên cạnh vị dịu ngọt quen thuộc còn có thêm hương vị đào chua nhẹ và thanh mát, là điểm sáng của món này.", 
+                    "img": "https://file.hstatic.net/1000135323/file/4_1822622bb6fb4efaad2c85a1758fefa0_1024x1024.jpg" ,
+                    "chuanbi":"5 phút",
+                    "chebien":"10 phút",
+                    "dokho":"4",
+                    "nguyenlieu":
+                    {
+                      "t1":"",
+                      "t2":"",
+                      "t3":""
+                    }
+                  ,
+                  "cacbuoc":
+                    {
+                      "b1":"",
+                      "b2":"",
+                      "b3":""
+                    }
+                  ,
+                    "date":"12",
+                    "tag": "#trasua,#dao"
+                  },
+                  { "id": "28", 
+                    "name": "Trà sữa socola", 
+                    "intro": "Trà sữa socola sẽ có thêm vị đắng êm đềm và vị thơm mạnh mẽ từ bột cacao, cùng màu nâu đậm đẹp mắt cực kì hấp dẫn." , 
+                    "img": "https://file.hstatic.net/1000135323/file/5_4af34c1e35cd4a24b93370f492e16a3c_1024x1024.jpg" ,
+                    "chuanbi":"5 phút",
+                    "chebien":"15 phút",
+                    "dokho":"4",
+                    "nguyenlieu":
+                    {
+                      "t1":"",
+                      "t2":"",
+                      "t3":""
+                    }
+                  ,
+                  "cacbuoc":
+                    {
+                      "b1":"",
+                      "b2":"",
+                      "b3":""
+                    }
+                  ,
+                    "date":"12",
+                    "tag": "#trasua,#socola"
+                  },
+                  { "id": "29", 
+                    "name": "Trà ô long sữa trân châu", 
+                    "intro": "Ô long là loại trà bán lên men với hương vị rất đặc biệt mà chỉ khi thử bạn mới cảm nhận được. Ô long cũng thường được sử dụng trong các công thức pha chế trà sữa, trà trái cây." , 
+                    "img": "https://file.hstatic.net/1000135323/file/6_c327a79b74d04ce798109b39e8d411e3_1024x1024.jpg" ,
+                    "chuanbi":"5 phút",
+                    "chebien":"15 phút",
+                    "dokho":"4",
+                    "nguyenlieu":
+                    {
+                      "t1":"",
+                      "t2":"",
+                      "t3":""
+                    }
+                  ,
+                  "cacbuoc":
+                    {
+                      "b1":"",
+                      "b2":"",
+                      "b3":""
+                    }
+                  ,
+                    "date":"12",
+                    "tag": "#trasua"
+            
+                  },
+                  {   "id": "30",
+                    "name": "Gà Rán KFC Tại Gia", 
+                    "intro": "Gà Rán KFC Tại Gia" , 
+                    "img": "https://img-global.cpcdn.com/recipes/fd6a79215260dc33/680x482cq70/ga-ran-kfc-t%E1%BA%A1i-gia-recipe-main-photo.webp" ,
+                    "chuanbi":"5 phút",
+                    "chebien":"20 phút",
+                    "dokho":"4",
+                    "nguyenlieu":
+                    {
+                      "t1":"",
+                      "t2":"",
+                      "t3":""
+                    }
+                  ,
+                  "cacbuoc":
+                    {
+                      "b1":"",
+                      "b2":"",
+                      "b3":""
+                    }
+                  ,
+                    "date":"12",
+                    "tag": "#garan,#kfc"
+                  },
+                  { "id": "32", 
+                    "name": " Cách làm gà rán giòn phiên bản không cay",
+                    "intro": "Không cay nha!" , 
+                    "img": "https://cdn.tgdd.vn/2021/09/CookRecipe/Avatar/cach-lam-ga-ran-gion-phien-ban-khong-cay-thumbnail.jpg" ,
+                    "chuanbi":"15 phút",
+                    "chebien":"20 phút",
+                    "dokho":"6",
+                    "nguyenlieu":
+                    {
+                      "t1":"",
+                      "t2":"",
+                      "t3":""
+                    }
+                  ,
+                  "cacbuoc":
+                    {
+                      "b1":"",
+                      "b2":"",
+                      "b3":""
+                    }
+                  ,
+                    "date":"12",
+                    "tag": "#garan"
+                  },
+                  { "id": "33", 
+                    "name": "Gà rán sốt cay", 
+                    "intro": "Món ăn nhanh gọn và rất ngon, vị giống món gà sốt cay ở các tiệm gà rán", 
+                    "img": "https://img-global.cpcdn.com/recipes/958d1ddf29d2035e/640x640sq70/photo.webp" ,
+                    "chuanbi":"10 phút",
+                    "chebien":"15 phút",
+                    "dokho":"6",
+                    "nguyenlieu":
+                    {
+                      "t1":"",
+                      "t2":"",
+                      "t3":""
+                    }
+                  ,
+                  "cacbuoc":
+                    {
+                      "b1":"",
+                      "b2":"",
+                      "b3":""
+                    }
+                  ,
+                    "date":"12",
+                    "tag": "#garan,#sot"
+                  },
+                  { "id": "34", 
+                    "name": "Gà rán/chiên Ajiqick", 
+                    "intro": "ngon" , 
+                    "img": "https://img-global.cpcdn.com/recipes/672b624036d38412/680x482cq70/ga-ranchien-ajiquck-recipe-main-photo.webp" ,
+                    "chuanbi":"10 phút",
+                    "chebien":"15 phút",
+                    "dokho":"6",
+                    "nguyenlieu":
+                    {
+                      "t1":"",
+                      "t2":"",
+                      "t3":""
+                    }
+                  ,
+                  "cacbuoc":
+                    {
+                      "b1":"",
+                      "b2":"",
+                      "b3":""
+                    }
+                  ,
+                    "date":"12",
+                    "tag": "#garan"
+                  },
+                  { "id": "35", 
+                    "name": "Cánh gà rán keto", 
+                    "intro": "Cánh gà rán keto phiên bản hơi lỗi" , 
+                    "img": "https://img-global.cpcdn.com/recipes/aaaea0178842791c/680x482cq70/canh-ga-ran-keto-recipe-main-photo.webp" ,
+                    "chuanbi":"10 phút",
+                    "chebien":"15 phút",
+                    "dokho":"6",
+                    "nguyenlieu":
+                    {
+                      "t1":"",
+                      "t2":"",
+                      "t3":""
+                    }
+                  ,
+                  "cacbuoc":
+                    {
+                      "b1":"",
+                      "b2":"",
+                      "b3":""
+                    }
+                  ,
+                    "date":"12",
+                    "tag": "#garan,#keto"
+            
+                  },
+                   { "id": "36", 
+                    "name": "Trứng Lòng Đào Ngâm Nước Tương Kiểu Hàn Quốc", 
+                    "intro": "Mình bonus mấy cái trứng cút dư cho gọn bếp chớ các bạn làm trứng gà thôi là chuẩn ngon rồi nghen." , 
+                    "img": "https://img-global.cpcdn.com/recipes/cfebcdba3d01f95d/680x482cq70/tr%E1%BB%A9ng-long-dao-ngam-n%C6%B0%E1%BB%9Bc-t%C6%B0%C6%A1ng-ki%E1%BB%83u-han-qu%E1%BB%91c-recipe-main-photo.webp" ,
+                    "chuanbi":"10 phút",
+                    "chebien":"15 phút",
+                    "dokho":"6",
+                    "nguyenlieu":
+                    {
+                      "t1":"",
+                      "t2":"",
+                      "t3":""
+                    }
+                  ,
+                  "cacbuoc":
+                    {
+                      "b1":"",
+                      "b2":"",
+                      "b3":""
+                    }
+                  ,
+                    "date":"12",
+                    "tag": "#monhan,#trung"
+                  },
+                  { "id": "37", 
+                    "name": " BULGOGI (THỊT NƯỚNG BBQ)", 
+                    "intro": "Bulgogi được ướp với nước tương (xì dầu) và đường, chính yếu tố đó làm cho món ăn mềm và thơm – một hương vị mà ai cũng có thể cảm nhận được.", 
+                    "img": "http://kingbbq.com.vn/wp-content/uploads/2014/09/bulgogi-1024x682.jpg" ,
+                    "chuanbi":"10 phút",
+                    "chebien":"15 phút",
+                    "dokho":"6",
+                    "nguyenlieu":
+                    {
+                      "t1":"",
+                      "t2":"",
+                      "t3":""
+                    }
+                  ,
+                  "cacbuoc":
+                    {
+                      "b1":"",
+                      "b2":"",
+                      "b3":""
+                    }
+                  ,
+                    "date":"12",
+                    "tag": "#monhan"
+                  },
+                  { "id": "100", 
+                    "name": "BIBIMBAP (CƠM TRỘN HÀN QUỐC)",
+                    "intro": "Nếu người Anh có sandwich, người Mỹ có hamburger và xúc xích thì người Hàn Quốc có Bibimbap và họ luôn tự hào: Đây là một món ăn hấp dẫn và tiêu biểu nhất của ẩm thực xứ Hàn." , 
+                    "img": "http://kingbbq.com.vn/wp-content/uploads/2014/09/bibimbap-9-1024x682.jpg" ,
+                    "chuanbi":"10 phút",
+                    "chebien":"15 phút",
+                    "dokho":"6",
+                    "nguyenlieu":
+                    {
+                      "t1":"",
+                      "t2":"",
+                      "t3":""
+                    }
+                  ,
+                  "cacbuoc":
+                    {
+                      "b1":"",
+                      "b2":"",
+                      "b3":""
+                    }
+                  ,
+                    "date":"12",
+                    "tag": "#monhan"
+                  },
+                  { "id": "39", 
+                    "name": "KIMCHI HÀN QUỐC", 
+                    "intro": "Kim chi được xem như món ăn điển hình của ẩm thực Hàn Quốc. Ở Hàn, kim chi được dùng trong hầu hết các bữa ăn hằng ngày và là thành phần của nhiều món như: kimchi jjigae (canh kim chi), kimchi bokkeumbap (cơm chiên kim chi).", 
+                    "img": "data:image/jpeg;base64,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" ,
+                    "chuanbi":"10 phút",
+                    "chebien":"15 phút",
+                    "dokho":"6",
+                    "nguyenlieu":
+                    {
+                      "t1":"",
+                      "t2":"",
+                      "t3":""
+                    }
+                  ,
+                  "cacbuoc":
+                    {
+                      "b1":"",
+                      "b2":"",
+                      "b3":""
+                    }
+                  ,
+                    "date":"12",
+                    "tag": "#monhan"
+                  }
+                  
+      
+      ]
+      },
+      {
+        "name": "Giáng sinh an lành", 
+        "img": "https://raw.githubusercontent.com/feMoraes0/food-bit-app/master/images/Icon-003.png",
+        "id":9,
+        "tl":[
+          { "id": "0", 
+            "name": "Bánh gừng", 
+            "intro": "Chiếc bánh gừng Lebkuchen được làm công phu với lớp phủ vàng, kem lạnh.", 
+            "img": "https://maisonoffice.vn/wp-content/uploads/2017/08/banh-nha-gung.jpg" ,
+            "date":"12",
+            "chuanbi":"10 phút",
+                "chebien":"15 phút",
+                "dokho":"6",
+                "nguyenlieu":
+                    {
+                      "t1":"Sữa tươi không đường 40 ml",
+                      "t2":"Cream of tartar 1/2 muỗng cà phê",
+                      "t3":"Whipping cream 150 ml"
+                    }
+                  ,
+                  "cacbuoc":
+                    {
+                      "b1":"Trộn đều sữa tươi, dầu ăn và bơ trong một cái tô lớn. Sau đó, rây bột mì và bột ca cao vào trộn đều rồi cho 4 lòng đỏ trứng gà vào trộn cho hoà quyện.",
+                      "b2":"Đánh bông 150 ml whipping cream rồi trét lên bánh. Sau đó cuộn lại rồi để tủ lạnh tầm 30 phút.",
+                      "b3":"Thưởng thức những miếng bánh khúc cây thơm, mềm, ngọt ngào vị chocolate trong dịp Giáng sinh thật chẳng còn gì bằng."
+                    }
+                  ,
+            "tag": "#anvat"
+          },
+            { "id": "1", 
+                "name": "Gà Tây", 
+                "intro": "Còn gì hạnh phúc bằng thưởng thức miếng thịt gà thơm phức, nóng hổi trong cái giá lạnh của tháng 12?" , 
+                "img": "https://maisonoffice.vn/wp-content/uploads/2016/12/10-mon-an-truyen-thong-dip-giang-sinh-1.jpg" ,
+                "date":"12",
+                "chuanbi":"10 phút",
+                    "chebien":"15 phút",
+                    "dokho":"6",
+                    "nguyenlieu":
+                    {
+                      "t1":"",
+                      "t2":"",
+                      "t3":""
+                    }
+                  ,
+                  "cacbuoc":
+                    {
+                      "b1":"",
+                      "b2":"",
+                      "b3":""
+                    }
+                  ,
+                "tag": "#giangsinh"
+              },
+              { "id": "2", 
+                "name": "Bánh khúc cây", 
+                "intro": "Chuẩn bị chiếc bánh này chắc chắn sẽ đỡ tốn thời gian hơn khúc gỗ Yule xưa kia nhiều.", 
+                "img": "https://maisonoffice.vn/wp-content/uploads/2017/08/banh-khuc-cay-giang-sinh.jpeg" ,
+                "date":"12",
+                "chuanbi":"10 phút",
+                    "chebien":"15 phút",
+                    "dokho":"6",
+                    "nguyenlieu":
+                    {
+                      "t1":"",
+                      "t2":"",
+                      "t3":""
+                    }
+                  ,
+                  "cacbuoc":
+                    {
+                      "b1":"",
+                      "b2":"",
+                      "b3":""
+                    }
+                  ,
+                "tag": "#anvat"
+              },
+              { "id": "3", 
+                "name": "Kẹo que bạc hà",
+                "intro": "Đó là những chiếc kẹo hình gậy với những đường xoắn hồng, hay xanh lá cây rât hấp dẫn đấy. Cách đây rất lâu, kẹo cây thẳng và chỉ có màu trắng." , 
+                "img": "https://maisonoffice.vn/wp-content/uploads/2016/12/keo-que-bac-ha_.jpg" ,
+                "date":"12",
+                "chuanbi":"10 phút",
+                    "chebien":"15 phút",
+                    "dokho":"6",
+                    "nguyenlieu":
+                    {
+                      "t1":"",
+                      "t2":"",
+                      "t3":""
+                    }
+                  ,
+                  "cacbuoc":
+                    {
+                      "b1":"",
+                      "b2":"",
+                      "b3":""
+                    }
+                  ,
+                "tag": "#anvat"
+              },
+              { "id": "4", 
+                "name": "Bánh gừng", 
+                "intro": "Chiếc bánh gừng Lebkuchen được làm công phu với lớp phủ vàng, kem lạnh.", 
+                "img": "https://maisonoffice.vn/wp-content/uploads/2017/08/banh-nha-gung.jpg" ,
+                "date":"12",
+                "chuanbi":"10 phút",
+                    "chebien":"15 phút",
+                    "dokho":"6",
+                    "nguyenlieu":
+                    {
+                      "t1":"",
+                      "t2":"",
+                      "t3":""
+                    }
+                  ,
+                  "cacbuoc":
+                    {
+                      "b1":"",
+                      "b2":"",
+                      "b3":""
+                    }
+                  ,
+                "tag": "#anvat"
+              },
+              { "id": "5", 
+                "name": "Bánh pudding", 
+                "intro": "Pudding như gà Tây quay, không có đó không phải là Noel" ,
+                "img": "https://maisonoffice.vn/wp-content/uploads/2017/08/b%C3%A1nh-pudding.jpg" ,
+                "date":"12",
+                "chuanbi":"10 phút",
+                    "chebien":"15 phút",
+                    "dokho":"6",
+                    "cacbuoc":[
+                      {
+                        "b1":"",
+                        "b2":"",
+                        "b3":""
+                      }
+                    ],
+                "tag": "#anvat"
+              },
+              { "id": "6", 
+                "name": "anvat6", 
+                "intro": "ngon" , 
+                "img": "https://inhat.vn/ha-noi/wp-content/uploads/2019/05/mon-an-vat-ha-noi-2-2.jpg" ,
+                "date":"12",
+                "chuanbi":"10 phút",
+                    "chebien":"15 phút",
+                    "dokho":"6",
+                    "cacbuoc":[
+                      {
+                        "b1":"",
+                        "b2":"",
+                        "b3":""
+                      }
+                    ],
+                "tag": "#anvat"
+        
+              },
+              { "id": "7", 
+                "name": "anvat7", 
+                "intro": "ngon" , 
+                "img": "https://inhat.vn/ha-noi/wp-content/uploads/2019/05/mon-an-vat-ha-noi-2-2.jpg" ,
+                "date":"12",
+                "chuanbi":"10 phút",
+                    "chebien":"15 phút",
+                    "dokho":"6",
+                    "cacbuoc":[
+                      {
+                        "b1":"",
+                        "b2":"",
+                        "b3":""
+                      }
+                    ],
+                "tag": "#anvat"
+              },
+              { "id": "8", 
+                "name": " anvat8", 
+                "intro": "ngon" , 
+                "img": "https://inhat.vn/ha-noi/wp-content/uploads/2019/05/mon-an-vat-ha-noi-2-2.jpg" ,
+                "date":"12",
+                "chuanbi":"10 phút",
+                    "chebien":"15 phút",
+                    "dokho":"6",
+                    "cacbuoc":[
+                      {
+                        "b1":"",
+                        "b2":"",
+                        "b3":""
+                      }
+                    ],
+                "tag": "#anvat"
+              },
+              { "id": "9", 
+                "name": "anvat9", 
+                "intro": "ngon", 
+                "img": "https://inhat.vn/ha-noi/wp-content/uploads/2019/05/mon-an-vat-ha-noi-2-2.jpg" ,
+                "date":"12",
+                "chuanbi":"10 phút",
+                    "chebien":"15 phút",
+                    "dokho":"6",
+                    "cacbuoc":[
+                      {
+                        "b1":"",
+                        "b2":"",
+                        "b3":""
+                      }
+                    ],
+                "tag": "#anvat"
+              },
+              { "id": "10", 
+                "name": "anvat10 ", 
+                "intro": "ngon", 
+                "img": "https://inhat.vn/ha-noi/wp-content/uploads/2019/05/mon-an-vat-ha-noi-2-2.jpg" ,
+                "date":"12",
+                "chuanbi":"10 phút",
+                    "chebien":"15 phút",
+                    "dokho":"6",
+                    "cacbuoc":[
+                      {
+                        "b1":"",
+                        "b2":"",
+                        "b3":""
+                      }
+                    ],
+                "tag": "#anvat"
+              }
+        ]
+    },
+    {
+      "name": "reply", 
+      "id":10,
+      "tl":[
+          { "id": "0", 
+              "name": "Hi / hello / Xin chào bạn", 
+              "rep": "Chào bạn nhaa!"
+            },
+            { "id": "1", 
+              "name": "Dạy mình nấu món này với / nấu món này như thế nào vậy / dạy mình món này được không / món này nấu như nào vậy / Dạy mình với ", 
+              "rep": "Dễ thôi, đầu tiên mua Trứng gà đem luộc chín và bỏ vỏ, cắt trứng làm 4 miếng và trộn với sốt Mayonnaise. Sau đó xếp xà lách ra đĩa và cho trứng lên. Thêm muối, đường, nước cốt chanh và tiêu vào rồi trộn đều. Cuối cùng trình bày món ăn ra đĩa và thêm một ít cần tây, thì là. Xong rồi đó!!"
+            },
+            { "id": "2", 
+              "name": "Cảm ơn nha! / Thanks! / thank you! / cảm ơn bạn", 
+              "rep": "Không có chi ^-^"
+            },
+            { "id": "3", 
+              "name": "Cần chuẩn bị những gì? / chuẩn bị?", 
+              "rep": "Rau xà lách, dưa chuột, cà chua, dầu mè, rau mùi, đường, muối, giấm, sốt mayonnaise."
+            },
+            { "id": "4", 
+              "name": "Bye bye / tạm biệt ", 
+              "rep": "Bye bye"
+            }
+
+      ]
+  },
+      {
+        "name": "ok", 
+        "tk": "admin", 
+        "mk": "123456", 
+          "id":11,
+          "tl":[
+          ]
+        },
+        {
+          "name": "ok", 
+            "intro":"Hàng trăm công thức được hướng dẫn chi tiết cùng hình ảnh minh họa sinh động, bạn sẽ dễ dàng tự tay nấu nhiều món ăn ngon để chiêu đãi cho người thân, bạn bè.",
+            "id":12,
+            "tl":[
+            ]
+          }
+    ]
+    
+    
+
+}

@@ -1,0 +1,1492 @@
+{
+    "food": [
+        { "id": "1", 
+          "name": "Sữa chua dưa hấu", 
+          "img":"https://cdn.tgdd.vn/2021/07/CookProduct/thumb-1200x676-14-1200x676.jpg",
+          "intro": "Dưa hấu nổi tiếng bởi màu sắc đẹp, vị ngọt thanh mát ăn rất đã. Đặc biệt trong mùa hè, người ta sử dụng loại trái cây này nhiều hơn cả. Ngoài cách ăn trực tiếp, làm nước ép, sinh tố thông thường thì có một cách khác dành cho bạn đó chính là cách làm sữa chua dưa hấu. Về cơ bản, món sữa chua này thực hiện cách giống sữa chua dâu, sữa chua bơ, sữa chua xoài nhưng chúng chỉ khác về nguyên liệu chính sử dụng. Cách làm sữa chua dưa hấu thực hiện nhanh có thể ăn liền trong ngày, vị sữa chua ngọt dịu, mềm dẻo ăn mát miệng. Ngày hè nếu có thời gian rảnh rỗi, bạn hãy tận dụng ngay những nguyên liệu có sẵn trong căn bếp để làm món ăn vặt thú vị này nhé.",
+          "tacgia": "LeTruong",
+          "tag":"#food,#duahau,#suachua",
+          "cachlam":
+          {
+            "b1":"Bước 1: Dưa hấu mua về rửa sạch, gọt sạch vỏ, cùi trắng, bỏ hết hạt và cắt thành những miếng nhỏ.",
+            "b2":"Bước 2: Cho dưa hấu, sữa đặc, sữa tươi, sữa chua và đường cát vào máy xay sinh tố để xay hỗn hợp nhuyễn mịn.",
+            "b3":"Bước 3: Rót hỗn hợp này ra từng hũ thủy tinh nhỏ và đem ủ cho lên men khoảng 7 – 8 tiếng. Sau đó bỏ và ngăn mát tủ lạnh khoảng 1 – 2 tiếng là dùng được. "
+          }
+        
+      },
+        { "id": "2", 
+          "name": "Kem bơ", 
+          "intro": "Dưa hấu nổi tiếng bởi màu sắc đẹp, vị ngọt thanh mát ăn rất đã. Đặc biệt trong mùa hè, người ta sử dụng loại trái cây này nhiều hơn cả. Ngoài cách ăn trực tiếp, làm nước ép, sinh tố thông thường thì có một cách khác dành cho bạn đó chính là cách làm sữa chua dưa hấu. Về cơ bản, món sữa chua này thực hiện cách giống sữa chua dâu, sữa chua bơ, sữa chua xoài nhưng chúng chỉ khác về nguyên liệu chính sử dụng. Cách làm sữa chua dưa hấu thực hiện nhanh có thể ăn liền trong ngày, vị sữa chua ngọt dịu, mềm dẻo ăn mát miệng. Ngày hè nếu có thời gian rảnh rỗi, bạn hãy tận dụng ngay những nguyên liệu có sẵn trong căn bếp để làm món ăn vặt thú vị này nhé.",
+          "tacgia": "HuyNguyen",
+          "tag":"#food,#duahau,#suachua",
+          "cachlam":
+          {
+            "b1":"Bước 1: Dưa hấu mua về rửa sạch, gọt sạch vỏ, cùi trắng, bỏ hết hạt và cắt thành những miếng nhỏ.",
+            "b2":"Bước 2: Cho dưa hấu, sữa đặc, sữa tươi, sữa chua và đường cát vào máy xay sinh tố để xay hỗn hợp nhuyễn mịn.",
+            "b3":"Bước 3: Rót hỗn hợp này ra từng hũ thủy tinh nhỏ và đem ủ cho lên men khoảng 7 – 8 tiếng. Sau đó bỏ và ngăn mát tủ lạnh khoảng 1 – 2 tiếng là dùng được. "
+          }
+        
+      },
+        { "id": "3", 
+          "name": "Sữa chua dưa hấu", 
+          "intro": "Dưa hấu nổi tiếng bởi màu sắc đẹp, vị ngọt thanh mát ăn rất đã. Đặc biệt trong mùa hè, người ta sử dụng loại trái cây này nhiều hơn cả. Ngoài cách ăn trực tiếp, làm nước ép, sinh tố thông thường thì có một cách khác dành cho bạn đó chính là cách làm sữa chua dưa hấu. Về cơ bản, món sữa chua này thực hiện cách giống sữa chua dâu, sữa chua bơ, sữa chua xoài nhưng chúng chỉ khác về nguyên liệu chính sử dụng. Cách làm sữa chua dưa hấu thực hiện nhanh có thể ăn liền trong ngày, vị sữa chua ngọt dịu, mềm dẻo ăn mát miệng. Ngày hè nếu có thời gian rảnh rỗi, bạn hãy tận dụng ngay những nguyên liệu có sẵn trong căn bếp để làm món ăn vặt thú vị này nhé.",
+          "tacgia": "HuyNguyen",
+          "tag":"#food,#duahau,#suachua",
+          "cachlam":
+            {
+              "b1":"Bước 1: Dưa hấu mua về rửa sạch, gọt sạch vỏ, cùi trắng, bỏ hết hạt và cắt thành những miếng nhỏ.",
+              "b2":"Bước 2: Cho dưa hấu, sữa đặc, sữa tươi, sữa chua và đường cát vào máy xay sinh tố để xay hỗn hợp nhuyễn mịn.",
+              "b3":"Bước 3: Rót hỗn hợp này ra từng hũ thủy tinh nhỏ và đem ủ cho lên men khoảng 7 – 8 tiếng. Sau đó bỏ và ngăn mát tủ lạnh khoảng 1 – 2 tiếng là dùng được. "
+            }
+          
+        },
+        { "id": "4", 
+          "name": "Sữa chua dưa hấu", 
+          "intro": "Dưa hấu nổi tiếng bởi màu sắc đẹp, vị ngọt thanh mát ăn rất đã. Đặc biệt trong mùa hè, người ta sử dụng loại trái cây này nhiều hơn cả. Ngoài cách ăn trực tiếp, làm nước ép, sinh tố thông thường thì có một cách khác dành cho bạn đó chính là cách làm sữa chua dưa hấu. Về cơ bản, món sữa chua này thực hiện cách giống sữa chua dâu, sữa chua bơ, sữa chua xoài nhưng chúng chỉ khác về nguyên liệu chính sử dụng. Cách làm sữa chua dưa hấu thực hiện nhanh có thể ăn liền trong ngày, vị sữa chua ngọt dịu, mềm dẻo ăn mát miệng. Ngày hè nếu có thời gian rảnh rỗi, bạn hãy tận dụng ngay những nguyên liệu có sẵn trong căn bếp để làm món ăn vặt thú vị này nhé.",
+          "tacgia": "HuyNguyen",
+          "tag":"#food,#duahau,#suachua",
+          "cachlam":
+          {
+            "b1":"Bước 1: Dưa hấu mua về rửa sạch, gọt sạch vỏ, cùi trắng, bỏ hết hạt và cắt thành những miếng nhỏ.",
+            "b2":"Bước 2: Cho dưa hấu, sữa đặc, sữa tươi, sữa chua và đường cát vào máy xay sinh tố để xay hỗn hợp nhuyễn mịn.",
+            "b3":"Bước 3: Rót hỗn hợp này ra từng hũ thủy tinh nhỏ và đem ủ cho lên men khoảng 7 – 8 tiếng. Sau đó bỏ và ngăn mát tủ lạnh khoảng 1 – 2 tiếng là dùng được. "
+          }
+        
+      },
+        { "id": "5", 
+          "name": "Sữa chua dưa hấu", 
+          "intro": "Dưa hấu nổi tiếng bởi màu sắc đẹp, vị ngọt thanh mát ăn rất đã. Đặc biệt trong mùa hè, người ta sử dụng loại trái cây này nhiều hơn cả. Ngoài cách ăn trực tiếp, làm nước ép, sinh tố thông thường thì có một cách khác dành cho bạn đó chính là cách làm sữa chua dưa hấu. Về cơ bản, món sữa chua này thực hiện cách giống sữa chua dâu, sữa chua bơ, sữa chua xoài nhưng chúng chỉ khác về nguyên liệu chính sử dụng. Cách làm sữa chua dưa hấu thực hiện nhanh có thể ăn liền trong ngày, vị sữa chua ngọt dịu, mềm dẻo ăn mát miệng. Ngày hè nếu có thời gian rảnh rỗi, bạn hãy tận dụng ngay những nguyên liệu có sẵn trong căn bếp để làm món ăn vặt thú vị này nhé.",
+          "tacgia": "HuyNguyen",
+          "tag":"#food,#duahau,#suachua",
+          "cachlam":
+            {
+              "b1":"Bước 1: Dưa hấu mua về rửa sạch, gọt sạch vỏ, cùi trắng, bỏ hết hạt và cắt thành những miếng nhỏ.",
+              "b2":"Bước 2: Cho dưa hấu, sữa đặc, sữa tươi, sữa chua và đường cát vào máy xay sinh tố để xay hỗn hợp nhuyễn mịn.",
+              "b3":"Bước 3: Rót hỗn hợp này ra từng hũ thủy tinh nhỏ và đem ủ cho lên men khoảng 7 – 8 tiếng. Sau đó bỏ và ngăn mát tủ lạnh khoảng 1 – 2 tiếng là dùng được. "
+            }
+          
+        },
+        { "id": "6", 
+          "name": "Sữa chua dưa hấu", 
+          "intro": "Dưa hấu nổi tiếng bởi màu sắc đẹp, vị ngọt thanh mát ăn rất đã. Đặc biệt trong mùa hè, người ta sử dụng loại trái cây này nhiều hơn cả. Ngoài cách ăn trực tiếp, làm nước ép, sinh tố thông thường thì có một cách khác dành cho bạn đó chính là cách làm sữa chua dưa hấu. Về cơ bản, món sữa chua này thực hiện cách giống sữa chua dâu, sữa chua bơ, sữa chua xoài nhưng chúng chỉ khác về nguyên liệu chính sử dụng. Cách làm sữa chua dưa hấu thực hiện nhanh có thể ăn liền trong ngày, vị sữa chua ngọt dịu, mềm dẻo ăn mát miệng. Ngày hè nếu có thời gian rảnh rỗi, bạn hãy tận dụng ngay những nguyên liệu có sẵn trong căn bếp để làm món ăn vặt thú vị này nhé.",
+          "tacgia": "HuyNguyen",
+          "tag":"#food,#duahau,#suachua",
+          "cachlam":
+          {
+            "b1":"Bước 1: Dưa hấu mua về rửa sạch, gọt sạch vỏ, cùi trắng, bỏ hết hạt và cắt thành những miếng nhỏ.",
+            "b2":"Bước 2: Cho dưa hấu, sữa đặc, sữa tươi, sữa chua và đường cát vào máy xay sinh tố để xay hỗn hợp nhuyễn mịn.",
+            "b3":"Bước 3: Rót hỗn hợp này ra từng hũ thủy tinh nhỏ và đem ủ cho lên men khoảng 7 – 8 tiếng. Sau đó bỏ và ngăn mát tủ lạnh khoảng 1 – 2 tiếng là dùng được. "
+          }
+        
+      },
+        { "id": "7", 
+          "name": "Sữa chua dưa hấu", 
+          "intro": "Dưa hấu nổi tiếng bởi màu sắc đẹp, vị ngọt thanh mát ăn rất đã. Đặc biệt trong mùa hè, người ta sử dụng loại trái cây này nhiều hơn cả. Ngoài cách ăn trực tiếp, làm nước ép, sinh tố thông thường thì có một cách khác dành cho bạn đó chính là cách làm sữa chua dưa hấu. Về cơ bản, món sữa chua này thực hiện cách giống sữa chua dâu, sữa chua bơ, sữa chua xoài nhưng chúng chỉ khác về nguyên liệu chính sử dụng. Cách làm sữa chua dưa hấu thực hiện nhanh có thể ăn liền trong ngày, vị sữa chua ngọt dịu, mềm dẻo ăn mát miệng. Ngày hè nếu có thời gian rảnh rỗi, bạn hãy tận dụng ngay những nguyên liệu có sẵn trong căn bếp để làm món ăn vặt thú vị này nhé.",
+          "tacgia": "HuyNguyen",
+          "tag":"#food,#duahau,#suachua",
+          "cachlam":
+            {
+              "b1":"Bước 1: Dưa hấu mua về rửa sạch, gọt sạch vỏ, cùi trắng, bỏ hết hạt và cắt thành những miếng nhỏ.",
+              "b2":"Bước 2: Cho dưa hấu, sữa đặc, sữa tươi, sữa chua và đường cát vào máy xay sinh tố để xay hỗn hợp nhuyễn mịn.",
+              "b3":"Bước 3: Rót hỗn hợp này ra từng hũ thủy tinh nhỏ và đem ủ cho lên men khoảng 7 – 8 tiếng. Sau đó bỏ và ngăn mát tủ lạnh khoảng 1 – 2 tiếng là dùng được. "
+            }
+          
+        },
+        { "id": "8", 
+          "name": "Sữa chua dưa hấu", 
+          "intro": "Dưa hấu nổi tiếng bởi màu sắc đẹp, vị ngọt thanh mát ăn rất đã. Đặc biệt trong mùa hè, người ta sử dụng loại trái cây này nhiều hơn cả. Ngoài cách ăn trực tiếp, làm nước ép, sinh tố thông thường thì có một cách khác dành cho bạn đó chính là cách làm sữa chua dưa hấu. Về cơ bản, món sữa chua này thực hiện cách giống sữa chua dâu, sữa chua bơ, sữa chua xoài nhưng chúng chỉ khác về nguyên liệu chính sử dụng. Cách làm sữa chua dưa hấu thực hiện nhanh có thể ăn liền trong ngày, vị sữa chua ngọt dịu, mềm dẻo ăn mát miệng. Ngày hè nếu có thời gian rảnh rỗi, bạn hãy tận dụng ngay những nguyên liệu có sẵn trong căn bếp để làm món ăn vặt thú vị này nhé.",
+          "tacgia": "HuyNguyen",
+          "tag":"#food,#duahau,#suachua",
+          "cachlam":
+          {
+            "b1":"Bước 1: Dưa hấu mua về rửa sạch, gọt sạch vỏ, cùi trắng, bỏ hết hạt và cắt thành những miếng nhỏ.",
+            "b2":"Bước 2: Cho dưa hấu, sữa đặc, sữa tươi, sữa chua và đường cát vào máy xay sinh tố để xay hỗn hợp nhuyễn mịn.",
+            "b3":"Bước 3: Rót hỗn hợp này ra từng hũ thủy tinh nhỏ và đem ủ cho lên men khoảng 7 – 8 tiếng. Sau đó bỏ và ngăn mát tủ lạnh khoảng 1 – 2 tiếng là dùng được. "
+          }
+        
+      }
+        
+      ],
+      "category": [
+        { "id": "1", "name": "mon an 1", "intro": "ngon" },
+        { "id": "2", "name": "mon an 2", "intro": "ngon" },
+        { "id": "3", "name": "mon an 3", "intro": "ngon" },
+        { "id": "4", "name": "mon an 4", "intro": "ngon" },
+        { "id": "5", "name": "mon an 5", "intro": "ngon" },
+        { "id": "6", "name": "mon an 6", "intro": "ngon" },
+        { "id": "7", "name": "mon an 7", "intro": "ngon" },
+        { "id": "8", "name": "mon an 8", "intro": "ngon" }
+      ],
+
+      
+      "monan": [
+        { "id": "1", 
+          "name": "Bún", 
+          "intro": "Ngon tuyệt đỉnh" , 
+          "img": "https://massageishealthy.com/wp-content/uploads/2019/06/hinh-anh-do-an-hinh-anh-mon-an-thuc-an-ngon-dep-viet-nam-the-gioi-1.jpg" 
+        },
+        { "id": "2", 
+          "name": "Bánh mì opla", 
+          "intro": "Bữa sáng nhiều năng lượng", 
+          "img": "https://massageishealthy.com/wp-content/uploads/2019/06/hinh-anh-do-an-hinh-anh-mon-an-thuc-an-ngon-dep-viet-nam-the-gioi-2.jpg" 
+        },
+        { "id": "3", 
+          "name": "Bánh cuốn",
+          "intro": "Có lẽ, đây là món ăn..." , 
+          "img": "https://massageishealthy.com/wp-content/uploads/2019/06/hinh-anh-do-an-hinh-anh-mon-an-thuc-an-ngon-dep-viet-nam-the-gioi-3.jpg"
+        },
+        { "id": "4", 
+          "name": "Bánh mì thập cẩm", 
+          "intro": "Ở cổng trường hay bán...", 
+          "img": "https://massageishealthy.com/wp-content/uploads/2019/06/hinh-anh-do-an-hinh-anh-mon-an-thuc-an-ngon-dep-viet-nam-the-gioi-4.png" 
+        },
+        { "id": "5", 
+          "name": "Cơm tấm", 
+          "intro": "Gạo tấm, nước chấm..." , 
+          "img": "https://massageishealthy.com/wp-content/uploads/2019/06/hinh-anh-do-an-hinh-anh-mon-an-thuc-an-ngon-dep-viet-nam-the-gioi-5.jpg"
+        },
+        { "id": "6", 
+          "name": "Bánh bao", 
+          "intro": "Vỏ bánh xốp, mịn..." , 
+          "img": "https://massageishealthy.com/wp-content/uploads/2019/06/hinh-anh-do-an-hinh-anh-mon-an-thuc-an-ngon-dep-viet-nam-the-gioi-6.jpg"
+        },
+        { "id": "7", 
+          "name": "Phở bò", 
+          "intro": "Được bình chọn là món ăn..." , 
+          "img": "https://massageishealthy.com/wp-content/uploads/2019/06/hinh-anh-do-an-hinh-anh-mon-an-thuc-an-ngon-dep-viet-nam-the-gioi-7.jpg"
+        },
+        { "id": "8", 
+          "name": " Các loại xôi", 
+          "intro": "Ngon" , 
+          "img": "https://massageishealthy.com/wp-content/uploads/2019/06/hinh-anh-do-an-hinh-anh-mon-an-thuc-an-ngon-dep-viet-nam-the-gioi-8.jpg"
+        },
+        { "id": "9", 
+          "name": "Các loại salad thanh mát", 
+          "intro": "Ngon", 
+          "img": "https://massageishealthy.com/wp-content/uploads/2019/06/hinh-anh-do-an-hinh-anh-mon-an-thuc-an-ngon-dep-viet-nam-the-gioi-9.jpg" 
+        },
+        { "id": "10", 
+          "name": "Sườn xào chua ngọt ", 
+          "intro": "Ngon", 
+          "img": "https://massageishealthy.com/wp-content/uploads/2019/06/hinh-anh-do-an-hinh-anh-mon-an-thuc-an-ngon-dep-viet-nam-the-gioi-10.jpg" 
+        }
+      ],
+
+    
+    
+
+"rausalad":[
+    { "id": "1", 
+        "name": "salad1", 
+        "intro": "ngon dễ gây nghiện :v" , 
+        "img": "https://cdn.jamja.vn/blog/wp-content/uploads/2017/10/cach-lam-salad-rau-tron-don-gian-2.jpg" ,
+        "date":"12/22/2021",
+        "tag": "#rausalad",
+        "time":"30 phút",
+        "nguyenlieu":{
+            "a":"mắm",
+            "b":"muối",
+            "c":"tiêu"
+        },
+        "cachlam":{
+            "b1":"chuan bi",
+            "b2":"ket thuc"
+        }
+        
+      },
+      
+      { "id": "2", 
+        "name": "salad2", 
+        "intro": "ngon", 
+        "img": "https://cdn.jamja.vn/blog/wp-content/uploads/2017/10/cach-lam-salad-rau-tron-don-gian-2.jpg" ,
+        "date":"12",
+        "tag": "#salad",
+        "time":"30 phút",
+        "nguyenlieu":{
+          "1":"mắm",
+          "2":"muối",
+          "3":"tiêu"
+      },
+      "cachlam":{
+          "b1":"chuan bi",
+          "b2":"ket thuc"
+      }
+      },
+      { "id": "3", 
+        "name": "salad3",
+        "intro": "ngon" ,  "time":"30 phút",
+        "img": "https://cdn.jamja.vn/blog/wp-content/uploads/2017/10/cach-lam-salad-rau-tron-don-gian-2.jpg" ,
+        "date":"12",
+        "tag": "#salad",
+        "nguyenlieu":{
+          "1":"mắm",
+          "2":"muối",
+          "3":"tiêu"
+      },
+      "cachlam":{
+          "b1":"chuan bi",
+          "b2":"ket thuc"
+      }
+      },
+      { "id": "4", 
+        "name": "salad4",  "time":"30 phút",
+        "intro": "ngon", 
+        "img": "https://cdn.jamja.vn/blog/wp-content/uploads/2017/10/cach-lam-salad-rau-tron-don-gian-2.jpg" ,
+        "date":"12",
+        "tag": "#salad",
+        "nguyenlieu":{
+          "1":"mắm",
+          "2":"muối",
+          "3":"tiêu"
+      },
+      "cachlam":{
+          "b1":"chuan bi",
+          "b2":"ket thuc"
+      }
+      },
+      { "id": "5", 
+        "name": "salad5",  "time":"30 phút",
+        "intro": "ngon" , 
+        "img": "https://cdn.jamja.vn/blog/wp-content/uploads/2017/10/cach-lam-salad-rau-tron-don-gian-2.jpg" ,
+        "date":"12",
+        "tag": "#salad",
+        "nguyenlieu":{
+          "1":"mắm",
+          "2":"muối",
+          "3":"tiêu"
+      },
+      "cachlam":{
+          "b1":"chuan bi",
+          "b2":"ket thuc"
+      }
+      },
+      { "id": "6", 
+        "name": "salad6",  "time":"30 phút",
+        "intro": "ngon" , 
+        "img": "https://cdn.jamja.vn/blog/wp-content/uploads/2017/10/cach-lam-salad-rau-tron-don-gian-2.jpg" ,
+        "date":"12",
+        "tag": "#salad",
+        "nguyenlieu":{
+          "1":"mắm",
+          "2":"muối",
+          "3":"tiêu"
+      },
+      "cachlam":{
+          "b1":"chuan bi",
+          "b2":"ket thuc"
+      }
+
+      },
+      { "id": "7", 
+        "name": "salad7",  "time":"30 phút",
+        "intro": "ngon" , 
+        "img": "https://cdn.jamja.vn/blog/wp-content/uploads/2017/10/cach-lam-salad-rau-tron-don-gian-2.jpg" ,
+        "date":"12",
+        "tag": "#salad",
+        "nguyenlieu":{
+          "1":"mắm",
+          "2":"muối",
+          "3":"tiêu"
+      },
+      "cachlam":{
+          "b1":"chuan bi",
+          "b2":"ket thuc"
+      }
+      },
+      { "id": "8", 
+        "name": " salad8",  "time":"30 phút",
+        "intro": "ngon" , 
+        "img": "https://cdn.jamja.vn/blog/wp-content/uploads/2017/10/cach-lam-salad-rau-tron-don-gian-2.jpg" ,
+        "date":"12",
+        "tag": "#salad",
+        "nguyenlieu":{
+          "1":"mắm",
+          "2":"muối",
+          "3":"tiêu"
+      },
+      "cachlam":{
+          "b1":"chuan bi",
+          "b2":"ket thuc"
+      }
+      },
+      { "id": "9", 
+        "name": "salad9",  "time":"30 phút",
+        "intro": "ngon", 
+        "img": "https://cdn.jamja.vn/blog/wp-content/uploads/2017/10/cach-lam-salad-rau-tron-don-gian-2.jpg" ,
+        "date":"12",
+        "tag": "#salad",
+        "nguyenlieu":{
+          "1":"mắm",
+          "2":"muối",
+          "3":"tiêu"
+      },
+      "cachlam":{
+          "b1":"chuan bi",
+          "b2":"ket thuc"
+      }
+      },
+      { "id": "10", 
+        "name": "salad10 ",  "time":"30 phút",
+        "intro": "ngon", 
+        "img": "https://cdn.jamja.vn/blog/wp-content/uploads/2017/10/cach-lam-salad-rau-tron-don-gian-2.jpg" ,
+        "date":"12",
+        "tag": "#salad",
+        "nguyenlieu":{
+          "1":"mắm",
+          "2":"muối",
+          "3":"tiêu"
+      },
+      "cachlam":{
+          "b1":"chuan bi",
+          "b2":"ket thuc"
+      }
+      }
+
+],
+"trasua":[
+{ "id": "1", 
+    "name": "trasua1",  "time":"30 phút",
+    "intro": "ngon 1" , 
+    "img": "http://gongcha.com.vn/wp-content/uploads/2018/02/Tr%C3%A0-s%E1%BB%AFa-Tr%C3%A2n-ch%C3%A2u-%C4%91en-1.png" ,
+    "date":"12",
+    "tag": "#trasua",
+    "nguyenlieu":{
+      "1":"mắm",
+      "2":"muối",
+      "3":"tiêu"
+  },
+  "cachlam":{
+      "b1":"chuan bi",
+      "b2":"ket thuc"
+  }
+  },
+  { "id": "2", 
+    "name": "trasua2",  "time":"30 phút",
+    "intro": "ngon", 
+    "img": "http://gongcha.com.vn/wp-content/uploads/2018/02/Tr%C3%A0-s%E1%BB%AFa-Tr%C3%A2n-ch%C3%A2u-%C4%91en-1.png" ,
+    "date":"12",
+    "tag": "#trasua",
+    "nguyenlieu":{
+      "1":"mắm",
+      "2":"muối",
+      "3":"tiêu"
+  },
+  "cachlam":{
+      "b1":"chuan bi",
+      "b2":"ket thuc"
+  }
+  },
+  { "id": "3", 
+    "name": "trasua3", "time":"30 phút",
+    "intro": "ngon" , 
+    "img": "http://gongcha.com.vn/wp-content/uploads/2018/02/Tr%C3%A0-s%E1%BB%AFa-Tr%C3%A2n-ch%C3%A2u-%C4%91en-1.png" ,
+    "date":"12",
+    "tag": "#trasua",
+    "nguyenlieu":{
+      "1":"mắm",
+      "2":"muối",
+      "3":"tiêu"
+  },
+  "cachlam":{
+      "b1":"chuan bi",
+      "b2":"ket thuc"
+  }
+  },
+  { "id": "4", 
+    "name": "trasua4",  "time":"30 phút",
+    "intro": "ngon", 
+    "img": "http://gongcha.com.vn/wp-content/uploads/2018/02/Tr%C3%A0-s%E1%BB%AFa-Tr%C3%A2n-ch%C3%A2u-%C4%91en-1.png" ,
+    "date":"12",
+    "tag": "#trasua",
+    "nguyenlieu":{
+      "1":"mắm",
+      "2":"muối",
+      "3":"tiêu"
+  },
+  "cachlam":{
+      "b1":"chuan bi",
+      "b2":"ket thuc"
+  }
+  },
+  { "id": "5", 
+    "name": "trasua5",  "time":"30 phút",
+    "intro": "ngon" , 
+    "img": "http://gongcha.com.vn/wp-content/uploads/2018/02/Tr%C3%A0-s%E1%BB%AFa-Tr%C3%A2n-ch%C3%A2u-%C4%91en-1.png" ,
+    "date":"12",
+    "tag": "#trasua",
+    "nguyenlieu":{
+      "1":"mắm",
+      "2":"muối",
+      "3":"tiêu"
+  },
+  "cachlam":{
+      "b1":"chuan bi",
+      "b2":"ket thuc"
+  }
+  },
+  { "id": "6", 
+    "name": "trasua6",  "time":"30 phút",
+    "intro": "ngon" , 
+    "img": "http://gongcha.com.vn/wp-content/uploads/2018/02/Tr%C3%A0-s%E1%BB%AFa-Tr%C3%A2n-ch%C3%A2u-%C4%91en-1.png" ,
+    "date":"12",
+    "tag": "#trasua",
+    "nguyenlieu":{
+      "1":"mắm",
+      "2":"muối",
+      "3":"tiêu"
+  },
+  "cachlam":{
+      "b1":"chuan bi",
+      "b2":"ket thuc"
+  }
+
+  },
+  { "id": "7", 
+    "name": "trasua7",  "time":"30 phút",
+    "intro": "ngon" , 
+    "img": "http://gongcha.com.vn/wp-content/uploads/2018/02/Tr%C3%A0-s%E1%BB%AFa-Tr%C3%A2n-ch%C3%A2u-%C4%91en-1.png" ,
+    "date":"12",
+    "tag": "#trasua",
+    "nguyenlieu":{
+      "1":"mắm",
+      "2":"muối",
+      "3":"tiêu"
+  },
+  "cachlam":{
+      "b1":"chuan bi",
+      "b2":"ket thuc"
+  }
+  },
+  { "id": "8", 
+    "name": " trasua8",  "time":"30 phút",
+    "intro": "ngon" , 
+    "img": "http://gongcha.com.vn/wp-content/uploads/2018/02/Tr%C3%A0-s%E1%BB%AFa-Tr%C3%A2n-ch%C3%A2u-%C4%91en-1.png" ,
+    "date":"12",
+    "tag": "#trasua",
+    "nguyenlieu":{
+      "1":"mắm",
+      "2":"muối",
+      "3":"tiêu"
+  },
+  "cachlam":{
+      "b1":"chuan bi",
+      "b2":"ket thuc"
+  }
+  },
+  { "id": "9", 
+    "name": "trasua9",  "time":"30 phút",
+    "intro": "ngon", 
+    "img": "http://gongcha.com.vn/wp-content/uploads/2018/02/Tr%C3%A0-s%E1%BB%AFa-Tr%C3%A2n-ch%C3%A2u-%C4%91en-1.png" ,
+    "date":"12",
+    "tag": "#trasua",
+    "nguyenlieu":{
+      "1":"mắm",
+      "2":"muối",
+      "3":"tiêu"
+  },
+  "cachlam":{
+      "b1":"chuan bi",
+      "b2":"ket thuc"
+  }
+  },
+  { "id": "10", 
+    "name": "trasua10 ",  "time":"30 phút",
+    "intro": "ngon", 
+    "img": "http://gongcha.com.vn/wp-content/uploads/2018/02/Tr%C3%A0-s%E1%BB%AFa-Tr%C3%A2n-ch%C3%A2u-%C4%91en-1.png" ,
+    "date":"12",
+    "tag": "#trasua",
+    "nguyenlieu":{
+      "1":"mắm",
+      "2":"muối",
+      "3":"tiêu"
+  },
+  "cachlam":{
+      "b1":"chuan bi",
+      "b2":"ket thuc"
+  }
+  }
+],
+
+
+"banhngot":[
+{ "id": "1", 
+    "name": "banhngot1",  "time":"30 phút",
+    "intro": "ngon 1" , 
+    "img": "https://thuhuongbakery.com.vn/wp-content/uploads/2020/07/d9c2f1f2089fce76027facf17defe986-e1597136991962.jpg" ,
+    "date":"12",
+    "tag": "#banhngot",
+    "nguyenlieu":{
+      "1":"mắm",
+      "2":"muối",
+      "3":"tiêu"
+  },
+  "cachlam":{
+      "b1":"chuan bi",
+      "b2":"ket thuc"
+  }
+  },
+  { "id": "2", 
+    "name": "banhngot2",  "time":"30 phút",
+    "intro": "ngon", 
+    "img": "https://thuhuongbakery.com.vn/wp-content/uploads/2020/07/d9c2f1f2089fce76027facf17defe986-e1597136991962.jpg" ,
+    "date":"12",
+    "tag": "#banhngot",
+    "nguyenlieu":{
+      "1":"mắm",
+      "2":"muối",
+      "3":"tiêu"
+  },
+  "cachlam":{
+      "b1":"chuan bi",
+      "b2":"ket thuc"
+  }
+  },
+  { "id": "3", 
+    "name": "banhngot3", "time":"30 phút",
+    "intro": "ngon" , 
+    "img": "https://thuhuongbakery.com.vn/wp-content/uploads/2020/07/d9c2f1f2089fce76027facf17defe986-e1597136991962.jpg" ,
+    "date":"12",
+    "tag": "#banhngot",
+    "nguyenlieu":{
+      "1":"mắm",
+      "2":"muối",
+      "3":"tiêu"
+  },
+  "cachlam":{
+      "b1":"chuan bi",
+      "b2":"ket thuc"
+  }
+  },
+  { "id": "4", 
+    "name": "banhngot4",  "time":"30 phút",
+    "intro": "ngon", 
+    "img": "https://thuhuongbakery.com.vn/wp-content/uploads/2020/07/d9c2f1f2089fce76027facf17defe986-e1597136991962.jpg" ,
+    "date":"12",
+    "tag": "#banhngot",
+    "nguyenlieu":{
+      "1":"mắm",
+      "2":"muối",
+      "3":"tiêu"
+  },
+  "cachlam":{
+      "b1":"chuan bi",
+      "b2":"ket thuc"
+  }
+  },
+  { "id": "5", 
+    "name": "banhngot5",  "time":"30 phút",
+    "intro": "ngon" , 
+    "img": "https://thuhuongbakery.com.vn/wp-content/uploads/2020/07/d9c2f1f2089fce76027facf17defe986-e1597136991962.jpg" ,
+    "date":"12",
+    "tag": "#banhngot",
+    "nguyenlieu":{
+      "1":"mắm",
+      "2":"muối",
+      "3":"tiêu"
+  },
+  "cachlam":{
+      "b1":"chuan bi",
+      "b2":"ket thuc"
+  }
+  },
+  { "id": "6", 
+    "name": "banhngot6",  "time":"30 phút",
+    "intro": "ngon" , 
+    "img": "https://thuhuongbakery.com.vn/wp-content/uploads/2020/07/d9c2f1f2089fce76027facf17defe986-e1597136991962.jpg" ,
+    "date":"12",
+    "tag": "#banhngot",
+    "nguyenlieu":{
+      "1":"mắm",
+      "2":"muối",
+      "3":"tiêu"
+  },
+  "cachlam":{
+      "b1":"chuan bi",
+      "b2":"ket thuc"
+  }
+
+  },
+  { "id": "7",  "time":"30 phút",
+    "name": "banhngot7", 
+    "intro": "ngon" , 
+    "img": "https://thuhuongbakery.com.vn/wp-content/uploads/2020/07/d9c2f1f2089fce76027facf17defe986-e1597136991962.jpg" ,
+    "date":"12",
+    "tag": "#banhngot",
+    "nguyenlieu":{
+      "1":"mắm",
+      "2":"muối",
+      "3":"tiêu"
+  },
+  "cachlam":{
+      "b1":"chuan bi",
+      "b2":"ket thuc"
+  }
+  },
+  { "id": "8", 
+    "name": " banhngot8",  "time":"30 phút",
+    "intro": "ngon" , 
+    "img": "https://thuhuongbakery.com.vn/wp-content/uploads/2020/07/d9c2f1f2089fce76027facf17defe986-e1597136991962.jpg" ,
+    "date":"12",
+    "tag": "#banhngot",
+    "nguyenlieu":{
+      "1":"mắm",
+      "2":"muối",
+      "3":"tiêu"
+  },
+  "cachlam":{
+      "b1":"chuan bi",
+      "b2":"ket thuc"
+  }
+  },
+  { "id": "9", 
+    "name": "banhngot9", 
+    "intro": "ngon", 
+    "img": "https://thuhuongbakery.com.vn/wp-content/uploads/2020/07/d9c2f1f2089fce76027facf17defe986-e1597136991962.jpg" ,
+    "date":"12",
+    "tag": "#banhngot", "time":"30 phút",
+    "nguyenlieu":{
+      "1":"mắm",
+      "2":"muối",
+      "3":"tiêu"
+  },
+  "cachlam":{
+      "b1":"chuan bi",
+      "b2":"ket thuc"
+  }
+  },
+  { "id": "10", 
+    "name": "banhngot10 ", 
+    "intro": "ngon", 
+    "img": "https://thuhuongbakery.com.vn/wp-content/uploads/2020/07/d9c2f1f2089fce76027facf17defe986-e1597136991962.jpg" ,
+    "date":"12",
+    "tag": "#banhngot", "time":"30 phút",
+    "nguyenlieu":{
+      "1":"mắm",
+      "2":"muối",
+      "3":"tiêu"
+  },
+  "cachlam":{
+      "b1":"chuan bi",
+      "b2":"ket thuc"
+  }
+  }
+],
+
+"anvat":[
+{ "id": "1", 
+    "name": "anvat1",  "time":"30 phút",
+    "intro": "ngon 1" , 
+    "img": "https://inhat.vn/ha-noi/wp-content/uploads/2019/05/mon-an-vat-ha-noi-2-2.jpg" ,
+    "date":"12",
+    "tag": "#anvat",
+    "nguyenlieu":{
+      "1":"mắm",
+      "2":"muối",
+      "3":"tiêu"
+  },
+  "cachlam":{
+      "b1":"chuan bi",
+      "b2":"ket thuc"
+  }
+  },
+  { "id": "2", 
+    "name": "anvat2", 
+    "intro": "ngon",  "time":"30 phút",
+    "img": "https://inhat.vn/ha-noi/wp-content/uploads/2019/05/mon-an-vat-ha-noi-2-2.jpg" ,
+    "date":"12",
+    "tag": "#anvat",
+    "nguyenlieu":{
+      "1":"mắm",
+      "2":"muối",
+      "3":"tiêu"
+  },
+  "cachlam":{
+      "b1":"chuan bi",
+      "b2":"ket thuc"
+  }
+  },
+  { "id": "3", 
+    "name": "anvat3",
+    "intro": "ngon" ,  "time":"30 phút",
+    "img": "https://inhat.vn/ha-noi/wp-content/uploads/2019/05/mon-an-vat-ha-noi-2-2.jpg" ,
+    "date":"12",
+    "tag": "#anvat",
+    "nguyenlieu":{
+      "1":"mắm",
+      "2":"muối",
+      "3":"tiêu"
+  },
+  "cachlam":{
+      "b1":"chuan bi",
+      "b2":"ket thuc"
+  }
+  },
+  { "id": "4", 
+    "name": "anvat4",  "time":"30 phút",
+    "intro": "ngon", 
+    "img": "https://inhat.vn/ha-noi/wp-content/uploads/2019/05/mon-an-vat-ha-noi-2-2.jpg" ,
+    "date":"12",
+    "tag": "#anvat",
+    "nguyenlieu":{
+      "1":"mắm",
+      "2":"muối",
+      "3":"tiêu"
+  },
+  "cachlam":{
+      "b1":"chuan bi",
+      "b2":"ket thuc"
+  }
+  },
+  { "id": "5", 
+    "name": "anvat5",  "time":"30 phút",
+    "intro": "ngon" , 
+    "img": "https://inhat.vn/ha-noi/wp-content/uploads/2019/05/mon-an-vat-ha-noi-2-2.jpg" ,
+    "date":"12",
+    "tag": "#anvat",
+    "nguyenlieu":{
+      "1":"mắm",
+      "2":"muối",
+      "3":"tiêu"
+  },
+  "cachlam":{
+      "b1":"chuan bi",
+      "b2":"ket thuc"
+  }
+  },
+  { "id": "6", 
+    "name": "anvat6", 
+    "intro": "ngon" ,  "time":"30 phút",
+    "img": "https://inhat.vn/ha-noi/wp-content/uploads/2019/05/mon-an-vat-ha-noi-2-2.jpg" ,
+    "date":"12",
+    "tag": "#anvat",
+    "nguyenlieu":{
+      "1":"mắm",
+      "2":"muối",
+      "3":"tiêu"
+  },
+  "cachlam":{
+      "b1":"chuan bi",
+      "b2":"ket thuc"
+  }
+
+  },
+  { "id": "7", 
+    "name": "anvat7",  "time":"30 phút",
+    "intro": "ngon" , 
+    "img": "https://inhat.vn/ha-noi/wp-content/uploads/2019/05/mon-an-vat-ha-noi-2-2.jpg" ,
+    "date":"12",
+    "tag": "#anvat",
+    "nguyenlieu":{
+      "1":"mắm",
+      "2":"muối",
+      "3":"tiêu"
+  },
+  "cachlam":{
+      "b1":"chuan bi",
+      "b2":"ket thuc"
+  }
+  },
+  { "id": "8", 
+    "name": " anvat8", 
+    "intro": "ngon" ,  "time":"30 phút",
+    "img": "https://inhat.vn/ha-noi/wp-content/uploads/2019/05/mon-an-vat-ha-noi-2-2.jpg" ,
+    "date":"12",
+    "tag": "#anvat",
+    "nguyenlieu":{
+      "1":"mắm",
+      "2":"muối",
+      "3":"tiêu"
+  },
+  "cachlam":{
+      "b1":"chuan bi",
+      "b2":"ket thuc"
+  }
+  },
+  { "id": "9", 
+    "name": "anvat9", 
+    "intro": "ngon", 
+    "img": "https://inhat.vn/ha-noi/wp-content/uploads/2019/05/mon-an-vat-ha-noi-2-2.jpg" ,
+    "date":"12",
+    "tag": "#anvat", "time":"30 phút",
+    "nguyenlieu":{
+      "1":"mắm",
+      "2":"muối",
+      "3":"tiêu"
+  },
+  "cachlam":{
+      "b1":"chuan bi",
+      "b2":"ket thuc"
+  }
+  },
+  { "id": "10", 
+    "name": "anvat10 ",  "time":"30 phút",
+    "intro": "ngon", 
+    "img": "https://inhat.vn/ha-noi/wp-content/uploads/2019/05/mon-an-vat-ha-noi-2-2.jpg" ,
+    "date":"12",
+    "tag": "#anvat",
+    "nguyenlieu":{
+      "1":"mắm",
+      "2":"muối",
+      "3":"tiêu"
+  },
+  "cachlam":{
+      "b1":"chuan bi",
+      "b2":"ket thuc"
+  }
+  }
+],
+
+"monhan":[
+{ "id": "1", 
+    "name": "monhan1", 
+    "intro": "ngon 1" , 
+    "img": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2018/08/mon-ngon-han-quoc6.jpg" ,
+    "date":"12",
+    "tag": "#monhan", "time":"30 phút",
+    "nguyenlieu":{
+      "1":"mắm",
+      "2":"muối",
+      "3":"tiêu"
+  },
+  "cachlam":{
+      "b1":"chuan bi",
+      "b2":"ket thuc"
+  }
+  },
+  { "id": "2", 
+    "name": "monhan2",  "time":"30 phút",
+    "intro": "ngon", 
+    "img": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2018/08/mon-ngon-han-quoc6.jpg" ,
+    "date":"12",
+    "tag": "#monhan",
+    "nguyenlieu":{
+      "1":"mắm",
+      "2":"muối",
+      "3":"tiêu"
+  },
+  "cachlam":{
+      "b1":"chuan bi",
+      "b2":"ket thuc"
+  }
+  },
+  { "id": "3", 
+    "name": "monhan3", "time":"30 phút",
+    "intro": "ngon" , 
+    "img": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2018/08/mon-ngon-han-quoc6.jpg" ,
+    "date":"12",
+    "tag": "#monhan",
+    "nguyenlieu":{
+      "1":"mắm",
+      "2":"muối",
+      "3":"tiêu"
+  },
+  "cachlam":{
+      "b1":"chuan bi",
+      "b2":"ket thuc"
+  }
+  },
+  { "id": "4", 
+    "name": "monhan4",  "time":"30 phút",
+    "intro": "ngon", 
+    "img": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2018/08/mon-ngon-han-quoc6.jpg" ,
+    "date":"12",
+    "tag": "#monhan",
+    "nguyenlieu":{
+      "1":"mắm",
+      "2":"muối",
+      "3":"tiêu"
+  },
+  "cachlam":{
+      "b1":"chuan bi",
+      "b2":"ket thuc"
+  }
+  },
+  { "id": "5", 
+    "name": "monhan5",  "time":"30 phút",
+    "intro": "ngon" , 
+    "img": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2018/08/mon-ngon-han-quoc6.jpg" ,
+    "date":"12",
+    "tag": "#monhan",
+    "nguyenlieu":{
+      "1":"mắm",
+      "2":"muối",
+      "3":"tiêu"
+  },
+  "cachlam":{
+      "b1":"chuan bi",
+      "b2":"ket thuc"
+  }
+  },
+  { "id": "6",  "time":"30 phút",
+    "name": "monhan6", 
+    "intro": "ngon" , 
+    "img": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2018/08/mon-ngon-han-quoc6.jpg" ,
+    "date":"12",
+    "tag": "#monhan",
+    "nguyenlieu":{
+      "1":"mắm",
+      "2":"muối",
+      "3":"tiêu"
+  },
+  "cachlam":{
+      "b1":"chuan bi",
+      "b2":"ket thuc"
+  }
+
+  },
+  { "id": "7", 
+    "name": "monhan7",  "time":"30 phút",
+    "intro": "ngon" , 
+    "img": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2018/08/mon-ngon-han-quoc6.jpg" ,
+    "date":"12",
+    "tag": "#monhan",
+    "nguyenlieu":{
+      "1":"mắm",
+      "2":"muối",
+      "3":"tiêu"
+  },
+  "cachlam":{
+      "b1":"chuan bi",
+      "b2":"ket thuc"
+  }
+  },
+  { "id": "8", 
+    "name": " monhan8", 
+    "intro": "ngon" , 
+    "img": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2018/08/mon-ngon-han-quoc6.jpg" ,
+    "date":"12",
+    "tag": "#monhan", "time":"30 phút",
+    "nguyenlieu":{
+      "1":"mắm",
+      "2":"muối",
+      "3":"tiêu"
+  },
+  "cachlam":{
+      "b1":"chuan bi",
+      "b2":"ket thuc"
+  }
+  },
+  { "id": "9", 
+    "name": "monhan9", 
+    "intro": "ngon", 
+    "img": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2018/08/mon-ngon-han-quoc6.jpg" ,
+    "date":"12",
+    "tag": "#monhan", "time":"30 phút",
+    "nguyenlieu":{
+      "1":"mắm",
+      "2":"muối",
+      "3":"tiêu"
+  },
+  "cachlam":{
+      "b1":"chuan bi",
+      "b2":"ket thuc"
+  }
+  },
+  { "id": "10", 
+    "name": "monhan10 ", 
+    "intro": "ngon", 
+    "img": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2018/08/mon-ngon-han-quoc6.jpg" ,
+    "date":"12", "time":"30 phút",
+    "tag": "#monhan",
+    "nguyenlieu":{
+      "1":"mắm",
+      "2":"muối",
+      "3":"tiêu"
+  },
+  "cachlam":{
+      "b1":"chuan bi",
+      "b2":"ket thuc"
+  }
+  }
+],
+"bun/pho":[
+{ "id": "1", 
+    "name": "bun/pho1", 
+    "intro": "ngon 1" ,  "time":"30 phút",
+    "img": "https://image.thanhnien.vn/w2048/Uploaded/2021/lxwpcqjwp/2019_10_09/anh_1_dzzf.jpg" ,
+    "date":"12",
+    "tag": "#bun/pho",
+    "nguyenlieu":{
+      "1":"mắm",
+      "2":"muối",
+      "3":"tiêu"
+  },
+  "cachlam":{
+      "b1":"chuan bi",
+      "b2":"ket thuc"
+  }
+  },
+  { "id": "2", 
+    "name": "bun/pho2", 
+    "intro": "ngon", 
+    "img": "https://image.thanhnien.vn/w2048/Uploaded/2021/lxwpcqjwp/2019_10_09/anh_1_dzzf.jpg" ,
+    "date":"12",
+    "tag": "#bun/pho", "time":"30 phút",
+    "nguyenlieu":{
+      "1":"mắm",
+      "2":"muối",
+      "3":"tiêu"
+  },
+  "cachlam":{
+      "b1":"chuan bi",
+      "b2":"ket thuc"
+  }
+  },
+  { "id": "3", 
+    "name": "bun/pho3", "time":"30 phút",
+    "intro": "ngon" , 
+    "img": "https://image.thanhnien.vn/w2048/Uploaded/2021/lxwpcqjwp/2019_10_09/anh_1_dzzf.jpg" ,
+    "date":"12",
+    "tag": "#bun/pho",
+    "nguyenlieu":{
+      "1":"mắm",
+      "2":"muối",
+      "3":"tiêu"
+  },
+  "cachlam":{
+      "b1":"chuan bi",
+      "b2":"ket thuc"
+  }
+  },
+  { "id": "4", 
+    "name": "bun/pho4",  "time":"30 phút",
+    "intro": "ngon", 
+    "img": "https://image.thanhnien.vn/w2048/Uploaded/2021/lxwpcqjwp/2019_10_09/anh_1_dzzf.jpg" ,
+    "date":"12",
+    "tag": "#bun/pho",
+    "nguyenlieu":{
+      "1":"mắm",
+      "2":"muối",
+      "3":"tiêu"
+  },
+  "cachlam":{
+      "b1":"chuan bi",
+      "b2":"ket thuc"
+  }
+  },
+  { "id": "5", 
+    "name": "bun/pho5",  "time":"30 phút",
+    "intro": "ngon" , 
+    "img": "https://image.thanhnien.vn/w2048/Uploaded/2021/lxwpcqjwp/2019_10_09/anh_1_dzzf.jpg" ,
+    "date":"12",
+    "tag": "#bun/pho",
+    "nguyenlieu":{
+      "1":"mắm",
+      "2":"muối",
+      "3":"tiêu"
+  },
+  "cachlam":{
+      "b1":"chuan bi",
+      "b2":"ket thuc"
+  }
+  },
+  { "id": "6", 
+    "name": "bun/pho6",  "time":"30 phút",
+    "intro": "ngon" , 
+    "img": "https://image.thanhnien.vn/w2048/Uploaded/2021/lxwpcqjwp/2019_10_09/anh_1_dzzf.jpg" ,
+    "date":"12",
+    "tag": "#bun/pho",
+    "nguyenlieu":{
+      "1":"mắm",
+      "2":"muối",
+      "3":"tiêu"
+  },
+  "cachlam":{
+      "b1":"chuan bi",
+      "b2":"ket thuc"
+  }
+
+  },
+  { "id": "7",  "time":"30 phút",
+    "name": "bun/pho7", 
+    "intro": "ngon" , 
+    "img": "https://image.thanhnien.vn/w2048/Uploaded/2021/lxwpcqjwp/2019_10_09/anh_1_dzzf.jpg" ,
+    "date":"12",
+    "tag": "#bun/pho",
+    "nguyenlieu":{
+      "1":"mắm",
+      "2":"muối",
+      "3":"tiêu"
+  },
+  "cachlam":{
+      "b1":"chuan bi",
+      "b2":"ket thuc"
+  }
+  },
+  { "id": "8", 
+    "name": " bun/pho8", 
+    "intro": "ngon" , 
+    "img": "https://image.thanhnien.vn/w2048/Uploaded/2021/lxwpcqjwp/2019_10_09/anh_1_dzzf.jpg" ,
+    "date":"12",
+    "tag": "#bun/pho", "time":"30 phút",
+    "nguyenlieu":{
+      "1":"mắm",
+      "2":"muối",
+      "3":"tiêu"
+  },
+  "cachlam":{
+      "b1":"chuan bi",
+      "b2":"ket thuc"
+  }
+  },
+  { "id": "9", 
+    "name": "bun/pho9", 
+    "intro": "ngon", 
+    "img": "https://image.thanhnien.vn/w2048/Uploaded/2021/lxwpcqjwp/2019_10_09/anh_1_dzzf.jpg" ,
+    "date":"12",
+    "tag": "#bun/pho", "time":"30 phút",
+    "nguyenlieu":{
+      "1":"mắm",
+      "2":"muối",
+      "3":"tiêu"
+  },
+  "cachlam":{
+      "b1":"chuan bi",
+      "b2":"ket thuc"
+  }
+  },
+  { "id": "10", 
+    "name": "bun/pho10 ", 
+    "intro": "ngon", 
+    "img": "https://image.thanhnien.vn/w2048/Uploaded/2021/lxwpcqjwp/2019_10_09/anh_1_dzzf.jpg" ,
+    "date":"12",
+    "tag": "#bun/pho", "time":"30 phút",
+    "nguyenlieu":{
+      "1":"mắm",
+      "2":"muối",
+      "3":"tiêu"
+  },
+  "cachlam":{
+      "b1":"chuan bi",
+      "b2":"ket thuc"
+  }
+  }
+],
+"garan":[
+{ "id": "1", 
+    "name": "garan1", 
+    "intro": "ngon 1" , 
+    "img": "https://cdn.daynauan.info.vn/wp-content/uploads/2019/05/mo-quan-ga-ran.jpg" ,
+    "date":"12",
+    "tag": "#garan", "time":"30 phút",
+    "nguyenlieu":{
+      "1":"mắm",
+      "2":"muối",
+      "3":"tiêu"
+  },
+  "cachlam":{
+      "b1":"chuan bi",
+      "b2":"ket thuc"
+  }
+  },
+  { "id": "2",  "time":"30 phút",
+    "name": "garan2", 
+    "intro": "ngon", 
+    "img": "https://cdn.daynauan.info.vn/wp-content/uploads/2019/05/mo-quan-ga-ran.jpg" ,
+    "date":"12",
+    "tag": "#garan",
+    "nguyenlieu":{
+      "1":"mắm",
+      "2":"muối",
+      "3":"tiêu"
+  },
+  "cachlam":{
+      "b1":"chuan bi",
+      "b2":"ket thuc"
+  }
+  },
+  { "id": "3", 
+    "name": "garan3",
+    "intro": "ngon" ,  "time":"30 phút",
+    "img": "https://cdn.daynauan.info.vn/wp-content/uploads/2019/05/mo-quan-ga-ran.jpg" ,
+    "date":"12",
+    "tag": "#garan",
+    "nguyenlieu":{
+      "1":"mắm",
+      "2":"muối",
+      "3":"tiêu"
+  },
+  "cachlam":{
+      "b1":"chuan bi",
+      "b2":"ket thuc"
+  }
+  },
+  { "id": "4", 
+    "name": "garan4",  "time":"30 phút",
+    "intro": "ngon", 
+    "img": "https://cdn.daynauan.info.vn/wp-content/uploads/2019/05/mo-quan-ga-ran.jpg" ,
+    "date":"12",
+    "tag": "#garan",
+    "nguyenlieu":{
+      "1":"mắm",
+      "2":"muối",
+      "3":"tiêu"
+  },
+  "cachlam":{
+      "b1":"chuan bi",
+      "b2":"ket thuc"
+  }
+  },
+  { "id": "5", 
+    "name": "garan5",  "time":"30 phút",
+    "intro": "ngon" , 
+    "img": "https://cdn.daynauan.info.vn/wp-content/uploads/2019/05/mo-quan-ga-ran.jpg" ,
+    "date":"12",
+    "tag": "#garan",
+    "nguyenlieu":{
+      "1":"mắm",
+      "2":"muối",
+      "3":"tiêu"
+  },
+  "cachlam":{
+      "b1":"chuan bi",
+      "b2":"ket thuc"
+  }
+  },
+  { "id": "6",  "time":"30 phút",
+    "name": "garan6", 
+    "intro": "ngon" , 
+    "img": "https://cdn.daynauan.info.vn/wp-content/uploads/2019/05/mo-quan-ga-ran.jpg" ,
+    "date":"12",
+    "tag": "#garan",
+    "nguyenlieu":{
+      "1":"mắm",
+      "2":"muối",
+      "3":"tiêu"
+  },
+  "cachlam":{
+      "b1":"chuan bi",
+      "b2":"ket thuc"
+  }
+
+  },
+  { "id": "7",  "time":"30 phút",
+    "name": "garan7", 
+    "intro": "ngon" , 
+    "img": "https://cdn.daynauan.info.vn/wp-content/uploads/2019/05/mo-quan-ga-ran.jpg" ,
+    "date":"12",
+    "tag": "#garan",
+    "nguyenlieu":{
+      "1":"mắm",
+      "2":"muối",
+      "3":"tiêu"
+  },
+  "cachlam":{
+      "b1":"chuan bi",
+      "b2":"ket thuc"
+  }
+  },
+  { "id": "8",  "time":"30 phút",
+    "name": " garan8", 
+    "intro": "ngon" , 
+    "img": "https://cdn.daynauan.info.vn/wp-content/uploads/2019/05/mo-quan-ga-ran.jpg" ,
+    "date":"12",
+    "tag": "#garan",
+    "nguyenlieu":{
+      "1":"mắm",
+      "2":"muối",
+      "3":"tiêu"
+  },
+  "cachlam":{
+      "b1":"chuan bi",
+      "b2":"ket thuc"
+  }
+  },
+  { "id": "9", 
+    "name": "garan9",  "time":"30 phút",
+    "intro": "ngon", 
+    "img": "https://cdn.daynauan.info.vn/wp-content/uploads/2019/05/mo-quan-ga-ran.jpg" ,
+    "date":"12",
+    "tag": "#garan",
+    "nguyenlieu":{
+      "1":"mắm",
+      "2":"muối",
+      "3":"tiêu"
+  },
+  "cachlam":{
+      "b1":"chuan bi",
+      "b2":"ket thuc"
+  }
+  },
+  { "id": "10", 
+    "name": "garan10 ",  "time":"30 phút",
+    "intro": "ngon", 
+    "img": "https://cdn.daynauan.info.vn/wp-content/uploads/2019/05/mo-quan-ga-ran.jpg" ,
+    "date":"12",
+    "tag": "#garan",
+    "nguyenlieu":{
+      "1":"mắm",
+      "2":"muối",
+      "3":"tiêu"
+  },
+  "cachlam":{
+      "b1":"chuan bi",
+      "b2":"ket thuc"
+  }
+  }
+],
+
+"comphan":[
+{ "id": "1", 
+    "name": "comphan1", 
+    "intro": "ngon 1" ,  "time":"30 phút",
+    "img": "https://toplistcantho.com/wp-content/uploads/2020/07/quan-com-phan-ngon-o-can-tho-15.jpg" ,
+    "date":"12",
+    "tag": "#comphan",
+    "nguyenlieu":{
+      "1":"mắm",
+      "2":"muối",
+      "3":"tiêu"
+  },
+  "cachlam":{
+      "b1":"chuan bi",
+      "b2":"ket thuc"
+  }
+  },
+  { "id": "2", 
+    "name": "comphan2",  "time":"30 phút",
+    "intro": "ngon", 
+    "img": "https://toplistcantho.com/wp-content/uploads/2020/07/quan-com-phan-ngon-o-can-tho-15.jpg" ,
+    "date":"12",
+    "tag": "#comphan",
+    "nguyenlieu":{
+      "1":"mắm",
+      "2":"muối",
+      "3":"tiêu"
+  },
+  "cachlam":{
+      "b1":"chuan bi",
+      "b2":"ket thuc"
+  }
+  },
+  { "id": "3",  "time":"30 phút",
+    "name": "comphan3",
+    "intro": "ngon" , 
+    "img": "https://toplistcantho.com/wp-content/uploads/2020/07/quan-com-phan-ngon-o-can-tho-15.jpg" ,
+    "date":"12",
+    "tag": "#comphan",
+    "nguyenlieu":{
+      "1":"mắm",
+      "2":"muối",
+      "3":"tiêu"
+  },
+  "cachlam":{
+      "b1":"chuan bi",
+      "b2":"ket thuc"
+  }
+  },
+  { "id": "4", 
+    "name": "comphan4",  "time":"30 phút",
+    "intro": "ngon", 
+    "img": "https://toplistcantho.com/wp-content/uploads/2020/07/quan-com-phan-ngon-o-can-tho-15.jpg" ,
+    "date":"12",
+    "tag": "#comphan",
+    "nguyenlieu":{
+      "1":"mắm",
+      "2":"muối",
+      "3":"tiêu"
+  },
+  "cachlam":{
+      "b1":"chuan bi",
+      "b2":"ket thuc"
+  }
+  },
+  { "id": "5", 
+    "name": "comphan5",  "time":"30 phút",
+    "intro": "ngon" , 
+    "img": "https://toplistcantho.com/wp-content/uploads/2020/07/quan-com-phan-ngon-o-can-tho-15.jpg" ,
+    "date":"12",
+    "tag": "#comphan",
+    "nguyenlieu":{
+      "1":"mắm",
+      "2":"muối",
+      "3":"tiêu"
+  },
+  "cachlam":{
+      "b1":"chuan bi",
+      "b2":"ket thuc"
+  }
+  },
+  { "id": "6",  "time":"30 phút",
+    "name": "comphan6", 
+    "intro": "ngon" , 
+    "img": "https://toplistcantho.com/wp-content/uploads/2020/07/quan-com-phan-ngon-o-can-tho-15.jpg" ,
+    "date":"12",
+    "tag": "#comphan",
+    "nguyenlieu":{
+      "1":"mắm",
+      "2":"muối",
+      "3":"tiêu"
+  },
+  "cachlam":{
+      "b1":"chuan bi",
+      "b2":"ket thuc"
+  }
+
+  },
+  { "id": "7",  "time":"30 phút",
+    "name": "comphan7", 
+    "intro": "ngon" , 
+    "img": "https://toplistcantho.com/wp-content/uploads/2020/07/quan-com-phan-ngon-o-can-tho-15.jpg" ,
+    "date":"12",
+    "tag": "#comphan",
+    "nguyenlieu":{
+      "1":"mắm",
+      "2":"muối",
+      "3":"tiêu"
+  },
+  "cachlam":{
+      "b1":"chuan bi",
+      "b2":"ket thuc"
+  }
+  },
+  { "id": "8", 
+    "name": " comphan8",  "time":"30 phút",
+    "intro": "ngon" , 
+    "img": "https://toplistcantho.com/wp-content/uploads/2020/07/quan-com-phan-ngon-o-can-tho-15.jpg" ,
+    "date":"12",
+    "tag": "#comphan",
+    "nguyenlieu":{
+      "1":"mắm",
+      "2":"muối",
+      "3":"tiêu"
+  },
+  "cachlam":{
+      "b1":"chuan bi",
+      "b2":"ket thuc"
+  }
+  },
+  { "id": "9", 
+    "name": "comphan9", 
+    "intro": "ngon",  "time":"30 phút",
+    "img": "https://toplistcantho.com/wp-content/uploads/2020/07/quan-com-phan-ngon-o-can-tho-15.jpg" ,
+    "date":"12",
+    "tag": "#comphan",
+    "nguyenlieu":{
+      "1":"mắm",
+      "2":"muối",
+      "3":"tiêu"
+  },
+  "cachlam":{
+      "b1":"chuan bi",
+      "b2":"ket thuc"
+  }
+  },
+  { "id": "10", 
+    "name": "comphan10 ",  "time":"30 phút",
+    "intro": "ngon", 
+    "img": "https://toplistcantho.com/wp-content/uploads/2020/07/quan-com-phan-ngon-o-can-tho-15.jpg" ,
+    "date":"12",
+    "tag": "#comphan",
+    "nguyenlieu":{
+      "1":"mắm",
+      "2":"muối",
+      "3":"tiêu"
+  },
+  "cachlam":{
+      "b1":"chuan bi",
+      "b2":"ket thuc"
+  }
+  }
+]
+}
